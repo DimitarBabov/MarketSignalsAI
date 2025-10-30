@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Data files - CSV files in Data directories
+Data/**/*.csv
+
+# Output files - generated images and data
+PriceChartImgGenerator/output/
+
+# Generated JSON files (regression data, labels, etc.)
+PriceChartImgGenerator/**/*_regression_data.json
+PriceChartImgGenerator/**/*_regression_data_normalized.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+
