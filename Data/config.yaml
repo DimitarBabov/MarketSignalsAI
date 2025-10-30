@@ -1,0 +1,24 @@
+# Configuration for downloading OHLC data
+
+# List of tickers to download
+tickers:
+  - SLV
+  - AGQ
+
+# List of intervals to download for each ticker
+intervals:
+  - 5m
+  - 1h
+  - 1d
+  - 1wk
+  - 1mo
+
+# Download parameters
+start_date: "2010-01-01"
+
+# Period for intraday data (5m, 1h)
+intraday_period: "60d"
+
+# Period for 1-minute data (if enabled)
+one_minute_period: "7d"
+
