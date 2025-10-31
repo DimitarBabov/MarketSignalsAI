@@ -1,0 +1,3962 @@
+{
+    "SLV_1h_25c_2025-08-12 16-30-00.png": {
+        "slope_first": 0.0020630643004272103,
+        "slope_second": -0.0046125527847857275,
+        "slope_third": 0.018942804897532903,
+        "slope_whole": -0.005665300119184468,
+        "max_dev": 40,
+        "price_change": 48,
+        "colored_pixels_ratio": 0.0826,
+        "current_price": 34.43000030517578
+    },
+    "SLV_1h_25c_2025-08-12 17-30-00.png": {
+        "slope_first": 0.003756514202360692,
+        "slope_second": 0.0004868797494583507,
+        "slope_third": 0.0059372116537651,
+        "slope_whole": -0.005267991192734986,
+        "max_dev": 45,
+        "price_change": 42,
+        "colored_pixels_ratio": 0.0863,
+        "current_price": 34.42499923706055
+    },
+    "SLV_1h_25c_2025-08-12 18-30-00.png": {
+        "slope_first": 0.002504943444663298,
+        "slope_second": 0.0038172791699688166,
+        "slope_third": -0.006380103616153962,
+        "slope_whole": -0.005117727028440203,
+        "max_dev": 44,
+        "price_change": 38,
+        "colored_pixels_ratio": 0.0844,
+        "current_price": 34.3849983215332
+    },
+    "SLV_1h_25c_2025-08-12 19-30-00.png": {
+        "slope_first": -0.0011653613471757503,
+        "slope_second": 0.004573835027175055,
+        "slope_third": -0.0046679104075712675,
+        "slope_whole": -0.004971755377136999,
+        "max_dev": 43,
+        "price_change": 30,
+        "colored_pixels_ratio": 0.0837,
+        "current_price": 34.41999816894531
+    },
+    "SLV_1h_25c_2025-08-13 13-30-00.png": {
+        "slope_first": -0.005256556296835174,
+        "slope_second": 0.009377803733798179,
+        "slope_third": 0.03524276509004523,
+        "slope_whole": -0.003666038455957551,
+        "max_dev": 73,
+        "price_change": -39,
+        "colored_pixels_ratio": 0.0759,
+        "current_price": 34.994998931884766
+    },
+    "SLV_1h_25c_2025-08-13 14-30-00.png": {
+        "slope_first": -0.009064104828943256,
+        "slope_second": 0.013270000627203895,
+        "slope_third": 0.0505284309387202,
+        "slope_whole": -0.002448136941684991,
+        "max_dev": 66,
+        "price_change": -33,
+        "colored_pixels_ratio": 0.076,
+        "current_price": 34.89500045776367
+    },
+    "SLV_1h_25c_2025-08-13 15-30-00.png": {
+        "slope_first": -0.012831712885349844,
+        "slope_second": 0.015691209222946974,
+        "slope_third": 0.03657303978415072,
+        "slope_whole": -0.001437944789352141,
+        "max_dev": 59,
+        "price_change": -32,
+        "colored_pixels_ratio": 0.0756,
+        "current_price": 34.935001373291016
+    },
+    "SLV_1h_25c_2025-08-13 16-30-00.png": {
+        "slope_first": -0.01487585592098176,
+        "slope_second": 0.017640549017458484,
+        "slope_third": 0.0013451800626861038,
+        "slope_whole": -0.0001067652617923392,
+        "max_dev": 52,
+        "price_change": -22,
+        "colored_pixels_ratio": 0.0737,
+        "current_price": 34.9900016784668
+    },
+    "SLV_1h_25c_2025-08-13 17-30-00.png": {
+        "slope_first": -0.01586435581312608,
+        "slope_second": 0.017958418902228854,
+        "slope_third": 0.0008208050447349868,
+        "slope_whole": 0.0013446230334701276,
+        "max_dev": 50,
+        "price_change": -21,
+        "colored_pixels_ratio": 0.0729,
+        "current_price": 34.92499923706055
+    },
+    "SLV_1h_25c_2025-08-13 18-30-00.png": {
+        "slope_first": -0.015737332347489846,
+        "slope_second": 0.01718263275769298,
+        "slope_third": 0.0018257085014784355,
+        "slope_whole": 0.002789321061622621,
+        "max_dev": 50,
+        "price_change": -13,
+        "colored_pixels_ratio": 0.0704,
+        "current_price": 34.96989822387695
+    },
+    "SLV_1h_25c_2025-08-13 19-30-00.png": {
+        "slope_first": -0.014448617703917366,
+        "slope_second": 0.01567619003167685,
+        "slope_third": 0.0002422781551584616,
+        "slope_whole": 0.004287403838040045,
+        "max_dev": 52,
+        "price_change": -23,
+        "colored_pixels_ratio": 0.0693,
+        "current_price": 35.0
+    },
+    "SLV_1h_25c_2025-08-14 13-30-00.png": {
+        "slope_first": -0.01095042435919687,
+        "slope_second": 0.011418865703019466,
+        "slope_third": -0.02667768702787565,
+        "slope_whole": 0.0048131233945537125,
+        "max_dev": 57,
+        "price_change": 21,
+        "colored_pixels_ratio": 0.0734,
+        "current_price": 34.599998474121094
+    },
+    "SLV_1h_25c_2025-08-14 14-30-00.png": {
+        "slope_first": -0.007151584144399992,
+        "slope_second": 0.0069202174888510415,
+        "slope_third": -0.03815364837646504,
+        "slope_whole": 0.0052160081654527585,
+        "max_dev": 62,
+        "price_change": 33,
+        "colored_pixels_ratio": 0.0727,
+        "current_price": 34.529300689697266
+    },
+    "SLV_1h_25c_2025-08-14 15-30-00.png": {
+        "slope_first": -0.0022245424048525286,
+        "slope_second": 0.0015194711307374134,
+        "slope_third": -0.037266159057617154,
+        "slope_whole": 0.005672892293806863,
+        "max_dev": 65,
+        "price_change": 39,
+        "colored_pixels_ratio": 0.0743,
+        "current_price": 34.439998626708984
+    },
+    "SLV_1h_25c_2025-08-14 16-30-00.png": {
+        "slope_first": 0.0032950572807249343,
+        "slope_second": -0.004081223248576698,
+        "slope_third": -0.010870142544017634,
+        "slope_whole": 0.006226186881078256,
+        "max_dev": 47,
+        "price_change": -19,
+        "colored_pixels_ratio": 0.0748,
+        "current_price": 34.52000045776367
+    },
+    "SLV_1h_25c_2025-08-14 17-30-00.png": {
+        "slope_first": 0.004148865478808555,
+        "slope_second": -0.01008331994907327,
+        "slope_third": -0.0061763482935294775,
+        "slope_whole": 0.005654792087485158,
+        "max_dev": 49,
+        "price_change": -16,
+        "colored_pixels_ratio": 0.075,
+        "current_price": 34.47999954223633
+    },
+    "SLV_1h_25c_2025-08-14 18-30-00.png": {
+        "slope_first": 0.00706860783864316,
+        "slope_second": -0.01313545364434828,
+        "slope_third": 0.002091901442583069,
+        "slope_whole": 0.005018147520928745,
+        "max_dev": 51,
+        "price_change": -27,
+        "colored_pixels_ratio": 0.0751,
+        "current_price": 34.55009841918945
+    },
+    "SLV_1h_25c_2025-08-14 19-30-00.png": {
+        "slope_first": 0.011710365725880498,
+        "slope_second": -0.012743642562005324,
+        "slope_third": 0.0036738451789408736,
+        "slope_whole": 0.004297470793221926,
+        "max_dev": 52,
+        "price_change": -24,
+        "colored_pixels_ratio": 0.0759,
+        "current_price": 34.5099983215332
+    },
+    "SLV_1h_25c_2025-08-15 13-30-00.png": {
+        "slope_first": 0.014494535668271236,
+        "slope_second": -0.014018692621091377,
+        "slope_third": -0.011289366553811811,
+        "slope_whole": 0.0030315088546207978,
+        "max_dev": 53,
+        "price_change": -12,
+        "colored_pixels_ratio": 0.077,
+        "current_price": 34.3650016784668
+    },
+    "SLV_1h_25c_2025-08-15 14-30-00.png": {
+        "slope_first": 0.016758026269590016,
+        "slope_second": -0.01319038711676069,
+        "slope_third": -0.011179295708151807,
+        "slope_whole": 0.0019850211110588978,
+        "max_dev": 52,
+        "price_change": -21,
+        "colored_pixels_ratio": 0.0792,
+        "current_price": 34.49509811401367
+    },
+    "SLV_1h_25c_2025-08-15 15-30-00.png": {
+        "slope_first": 0.018043917212880997,
+        "slope_second": -0.010933674495188637,
+        "slope_third": -0.0025007191826317515,
+        "slope_whole": 0.0009664751951880142,
+        "max_dev": 51,
+        "price_change": -23,
+        "colored_pixels_ratio": 0.0785,
+        "current_price": 34.439998626708984
+    },
+    "SLV_1h_25c_2025-08-15 16-30-00.png": {
+        "slope_first": 0.017499827628805434,
+        "slope_second": -0.008390550556159946,
+        "slope_third": 0.008789219575769067,
+        "slope_whole": -0.0002511966360821439,
+        "max_dev": 53,
+        "price_change": -25,
+        "colored_pixels_ratio": 0.0783,
+        "current_price": 34.46989822387695
+    },
+    "SLV_1h_25c_2025-08-15 17-30-00.png": {
+        "slope_first": 0.01613381998307135,
+        "slope_second": -0.004536913153933415,
+        "slope_third": 0.0038574555340934024,
+        "slope_whole": -0.0014018368084368655,
+        "max_dev": 57,
+        "price_change": -36,
+        "colored_pixels_ratio": 0.0814,
+        "current_price": 34.51190185546875
+    },
+    "SLV_1h_25c_2025-08-15 18-30-00.png": {
+        "slope_first": 0.013656723553679419,
+        "slope_second": -0.0011515745824697099,
+        "slope_third": 0.0025399039773377386,
+        "slope_whole": -0.0022706703577463237,
+        "max_dev": 48,
+        "price_change": 2,
+        "colored_pixels_ratio": 0.0754,
+        "current_price": 34.5
+    },
+    "SLV_1h_25c_2025-08-15 19-30-00.png": {
+        "slope_first": 0.009400253753845214,
+        "slope_second": -0.00027441933804773903,
+        "slope_third": 0.0035381934222050208,
+        "slope_whole": -0.002849181982407231,
+        "max_dev": 46,
+        "price_change": -5,
+        "colored_pixels_ratio": 0.0728,
+        "current_price": 34.494998931884766
+    },
+    "SLV_1h_25c_2025-08-18 13-30-00.png": {
+        "slope_first": 0.004524050525971897,
+        "slope_second": 0.001336103533210221,
+        "slope_third": 0.007348537445067939,
+        "slope_whole": -0.003246409166978713,
+        "max_dev": 47,
+        "price_change": -16,
+        "colored_pixels_ratio": 0.0758,
+        "current_price": 34.564998626708984
+    },
+    "SLV_1h_25c_2025-08-18 14-30-00.png": {
+        "slope_first": -0.0012248517571090904,
+        "slope_second": 0.0017812106532066898,
+        "slope_third": 0.00594774695003751,
+        "slope_whole": -0.0038047731927735215,
+        "max_dev": 52,
+        "price_change": -18,
+        "colored_pixels_ratio": 0.0764,
+        "current_price": 34.56800079345703
+    },
+    "SLV_1h_25c_2025-08-18 15-30-00.png": {
+        "slope_first": -0.006985520709748663,
+        "slope_second": 0.0023583650989693773,
+        "slope_third": 0.0014493381275850995,
+        "slope_whole": -0.004502264824565921,
+        "max_dev": 57,
+        "price_change": -17,
+        "colored_pixels_ratio": 0.0769,
+        "current_price": 34.525001525878906
+    },
+    "SLV_1h_25c_2025-08-18 16-30-00.png": {
+        "slope_first": -0.012914558767843132,
+        "slope_second": 0.002569676613321143,
+        "slope_third": -0.007585463804357398,
+        "slope_whole": -0.0052975031923968696,
+        "max_dev": 47,
+        "price_change": 42,
+        "colored_pixels_ratio": 0.0764,
+        "current_price": 34.519901275634766
+    },
+    "SLV_1h_25c_2025-08-18 17-30-00.png": {
+        "slope_first": -0.01311074063414423,
+        "slope_second": 0.003276468668521988,
+        "slope_third": -0.0038194263682651184,
+        "slope_whole": -0.004768711597111978,
+        "max_dev": 46,
+        "price_change": 55,
+        "colored_pixels_ratio": 0.0722,
+        "current_price": 34.529998779296875
+    },
+    "SLV_1h_25c_2025-08-18 18-30-00.png": {
+        "slope_first": -0.01338857863702111,
+        "slope_second": 0.003019323268858327,
+        "slope_third": -0.0018753107856302863,
+        "slope_whole": -0.004123231262335269,
+        "max_dev": 46,
+        "price_change": 44,
+        "colored_pixels_ratio": 0.0692,
+        "current_price": 34.53499984741211
+    },
+    "SLV_1h_25c_2025-08-18 19-30-00.png": {
+        "slope_first": -0.013860887616765467,
+        "slope_second": 0.001903466892128032,
+        "slope_third": 0.0015062107759361153,
+        "slope_whole": -0.003436505202949418,
+        "max_dev": 46,
+        "price_change": 47,
+        "colored_pixels_ratio": 0.0682,
+        "current_price": 34.54999923706055
+    },
+    "SLV_1h_25c_2025-08-19 13-30-00.png": {
+        "slope_first": -0.012115103731922316,
+        "slope_second": 0.00042717905033100203,
+        "slope_third": -0.008299064636230435,
+        "slope_whole": -0.002850889794790013,
+        "max_dev": 45,
+        "price_change": 81,
+        "colored_pixels_ratio": 0.0723,
+        "current_price": 34.334999084472656
+    },
+    "SLV_1h_25c_2025-08-19 14-30-00.png": {
+        "slope_first": -0.00978139998675235,
+        "slope_second": -0.003302555885635466,
+        "slope_third": -0.03099973902982845,
+        "slope_whole": -0.0027562729875282854,
+        "max_dev": 42,
+        "price_change": 84,
+        "colored_pixels_ratio": 0.0645,
+        "current_price": 34.035099029541016
+    },
+    "SLV_1h_25c_2025-08-19 15-30-00.png": {
+        "slope_first": -0.006626482685359323,
+        "slope_second": -0.007633551406402357,
+        "slope_third": -0.045071439182057874,
+        "slope_whole": -0.0028429932226622327,
+        "max_dev": 39,
+        "price_change": 89,
+        "colored_pixels_ratio": 0.0642,
+        "current_price": 34.01179885864258
+    },
+    "SLV_1h_25c_2025-08-19 16-30-00.png": {
+        "slope_first": -0.0021765464608695753,
+        "slope_second": -0.011610012901645123,
+        "slope_third": -0.03947356728946487,
+        "slope_whole": -0.0028629761703588457,
+        "max_dev": 50,
+        "price_change": 79,
+        "colored_pixels_ratio": 0.0755,
+        "current_price": 33.935001373291016
+    },
+    "SLV_1h_25c_2025-08-19 17-30-00.png": {
+        "slope_first": -0.0010275829081633457,
+        "slope_second": -0.015148607050241921,
+        "slope_third": -0.02283478344188046,
+        "slope_whole": -0.0037501902656086644,
+        "max_dev": 49,
+        "price_change": 86,
+        "colored_pixels_ratio": 0.0771,
+        "current_price": 33.88570022583008
+    },
+    "SLV_1h_25c_2025-08-19 18-30-00.png": {
+        "slope_first": 0.0006881499548061973,
+        "slope_second": -0.01725032188168242,
+        "slope_third": -0.01261452506570286,
+        "slope_whole": -0.004649877013153015,
+        "max_dev": 43,
+        "price_change": 76,
+        "colored_pixels_ratio": 0.0737,
+        "current_price": 33.88999938964844
+    },
+    "SLV_1h_25c_2025-08-19 19-30-00.png": {
+        "slope_first": 0.001486576808457884,
+        "slope_second": -0.018412113807925425,
+        "slope_third": -0.006965339885038826,
+        "slope_whole": -0.005602843189897598,
+        "max_dev": 40,
+        "price_change": 67,
+        "colored_pixels_ratio": 0.0698,
+        "current_price": 33.88999938964844
+    },
+    "SLV_1h_25c_2025-08-20 13-30-00.png": {
+        "slope_first": 0.0021168946704658727,
+        "slope_second": -0.015289864786246452,
+        "slope_third": 0.02309601727653943,
+        "slope_whole": -0.005601360551094272,
+        "max_dev": 41,
+        "price_change": 35,
+        "colored_pixels_ratio": 0.0689,
+        "current_price": 34.230098724365234
+    },
+    "SLV_1h_25c_2025-08-20 14-30-00.png": {
+        "slope_first": 0.00241542399430451,
+        "slope_second": -0.011803942218977351,
+        "slope_third": 0.03599787880392607,
+        "slope_whole": -0.005477981224025846,
+        "max_dev": 43,
+        "price_change": 25,
+        "colored_pixels_ratio": 0.0698,
+        "current_price": 34.275001525878906
+    },
+    "SLV_1h_25c_2025-08-20 15-30-00.png": {
+        "slope_first": 0.0028480326456756053,
+        "slope_second": -0.007828453586024253,
+        "slope_third": 0.030132316140567317,
+        "slope_whole": -0.005173249311930697,
+        "max_dev": 45,
+        "price_change": 28,
+        "colored_pixels_ratio": 0.0695,
+        "current_price": 34.33000183105469
+    },
+    "SLV_1h_25c_2025-08-20 16-30-00.png": {
+        "slope_first": 0.003488827415731656,
+        "slope_second": -0.003209283469247035,
+        "slope_third": 0.005638431100284296,
+        "slope_whole": -0.004757474068940121,
+        "max_dev": 47,
+        "price_change": 3,
+        "colored_pixels_ratio": 0.0682,
+        "current_price": 34.314998626708984
+    },
+    "SLV_1h_25c_2025-08-20 17-30-00.png": {
+        "slope_first": 0.0021976871192814686,
+        "slope_second": 0.0018327853602378191,
+        "slope_third": 0.0041577731861784815,
+        "slope_whole": -0.0047711962892458305,
+        "max_dev": 50,
+        "price_change": 5,
+        "colored_pixels_ratio": 0.0658,
+        "current_price": 34.31999969482422
+    },
+    "SLV_1h_25c_2025-08-20 18-30-00.png": {
+        "slope_first": 0.0013950815922072074,
+        "slope_second": 0.007465939195502553,
+        "slope_third": 0.005260966805850021,
+        "slope_whole": -0.004458620430219374,
+        "max_dev": 52,
+        "price_change": 8,
+        "colored_pixels_ratio": 0.0648,
+        "current_price": 34.42499923706055
+    },
+    "SLV_1h_25c_2025-08-20 19-30-00.png": {
+        "slope_first": -0.0007064594026088025,
+        "slope_second": 0.011868427180442658,
+        "slope_third": 0.008318289588478786,
+        "slope_whole": -0.0039021436094415865,
+        "max_dev": 55,
+        "price_change": 3,
+        "colored_pixels_ratio": 0.0633,
+        "current_price": 34.41999816894531
+    },
+    "SLV_1h_25c_2025-08-21 13-30-00.png": {
+        "slope_first": -0.005557634552844682,
+        "slope_second": 0.013963696501549877,
+        "slope_third": 0.017052263372084056,
+        "slope_whole": -0.003115805515182868,
+        "max_dev": 57,
+        "price_change": -18,
+        "colored_pixels_ratio": 0.0672,
+        "current_price": 34.6150016784668
+    },
+    "SLV_1h_25c_2025-08-21 14-30-00.png": {
+        "slope_first": -0.009523117596648067,
+        "slope_second": 0.01565359933035719,
+        "slope_third": 0.01976872051463389,
+        "slope_whole": -0.0021098466352983095,
+        "max_dev": 58,
+        "price_change": -11,
+        "colored_pixels_ratio": 0.0665,
+        "current_price": 34.61000061035156
+    },
+    "SLV_1h_25c_2025-08-21 15-30-00.png": {
+        "slope_first": -0.01339510822639617,
+        "slope_second": 0.015535630573030063,
+        "slope_third": 0.014439992343677993,
+        "slope_whole": -0.0010824302492505045,
+        "max_dev": 59,
+        "price_change": -10,
+        "colored_pixels_ratio": 0.0675,
+        "current_price": 34.581199645996094
+    },
+    "SLV_1h_25c_2025-08-21 16-30-00.png": {
+        "slope_first": -0.016707600093259813,
+        "slope_second": 0.01370216946641944,
+        "slope_third": 0.0020298621233767905,
+        "slope_whole": -0.00016422868025322402,
+        "max_dev": 59,
+        "price_change": 11,
+        "colored_pixels_ratio": 0.0682,
+        "current_price": 34.56645202636719
+    },
+    "SLV_1h_25c_2025-08-21 17-30-00.png": {
+        "slope_first": -0.01803482073981949,
+        "slope_second": 0.01066652295683893,
+        "slope_third": -0.004356227201574264,
+        "slope_whole": 0.0009882381518181626,
+        "max_dev": 59,
+        "price_change": 1,
+        "colored_pixels_ratio": 0.0649,
+        "current_price": 34.560001373291016
+    },
+    "SLV_1h_25c_2025-08-21 18-30-00.png": {
+        "slope_first": -0.01682743159519655,
+        "slope_second": 0.008690387959382956,
+        "slope_third": -0.0027961674858547076,
+        "slope_whole": 0.002072971915111444,
+        "max_dev": 57,
+        "price_change": -5,
+        "colored_pixels_ratio": 0.0658,
+        "current_price": 34.607601165771484
+    },
+    "SLV_1h_25c_2025-08-21 19-30-00.png": {
+        "slope_first": -0.013539813752649512,
+        "slope_second": 0.007933994215361992,
+        "slope_third": 0.0013644106247843054,
+        "slope_whole": 0.003148777867593845,
+        "max_dev": 55,
+        "price_change": -7,
+        "colored_pixels_ratio": 0.0643,
+        "current_price": 34.59000015258789
+    },
+    "SLV_1h_25c_2025-08-22 13-30-00.png": {
+        "slope_first": -0.00990574995867475,
+        "slope_second": 0.00875998782081198,
+        "slope_third": 0.018140882604262762,
+        "slope_whole": 0.00461073895170266,
+        "max_dev": 45,
+        "price_change": -47,
+        "colored_pixels_ratio": 0.0579,
+        "current_price": 35.14500045776367
+    },
+    "SLV_1h_25c_2025-08-22 14-30-00.png": {
+        "slope_first": -0.005516107566073136,
+        "slope_second": 0.013473854568682997,
+        "slope_third": 0.0572660221773033,
+        "slope_whole": 0.007170474318244717,
+        "max_dev": 45,
+        "price_change": -55,
+        "colored_pixels_ratio": 0.0546,
+        "current_price": 35.415000915527344
+    },
+    "SLV_1h_25c_2025-08-22 15-30-00.png": {
+        "slope_first": -0.0007415548006313486,
+        "slope_second": 0.017515460468855513,
+        "slope_third": 0.06859779357910116,
+        "slope_whole": 0.009777312806659041,
+        "max_dev": 38,
+        "price_change": -48,
+        "colored_pixels_ratio": 0.0569,
+        "current_price": 35.32605743408203
+    },
+    "SLV_1h_25c_2025-08-22 16-30-00.png": {
+        "slope_first": 0.004699891125883788,
+        "slope_second": 0.020227563132186408,
+        "slope_third": 0.04565239513621553,
+        "slope_whole": 0.012281601130694087,
+        "max_dev": 42,
+        "price_change": -57,
+        "colored_pixels_ratio": 0.0581,
+        "current_price": 35.415000915527344
+    },
+    "SLV_1h_25c_2025-08-22 17-30-00.png": {
+        "slope_first": 0.00969609071655999,
+        "slope_second": 0.022257736041193778,
+        "slope_third": 0.009550661199232488,
+        "slope_whole": 0.014396629596736533,
+        "max_dev": 35,
+        "price_change": -67,
+        "colored_pixels_ratio": 0.0553,
+        "current_price": 35.417701721191406
+    },
+    "SLV_1h_25c_2025-08-22 18-30-00.png": {
+        "slope_first": 0.01291244891511273,
+        "slope_second": 0.023363878449328874,
+        "slope_third": 0.0014443060931034102,
+        "slope_whole": 0.015650852934719715,
+        "max_dev": 37,
+        "price_change": -82,
+        "colored_pixels_ratio": 0.0502,
+        "current_price": 35.37900161743164
+    },
+    "SLV_1h_25c_2025-08-22 19-30-00.png": {
+        "slope_first": 0.015099776543918265,
+        "slope_second": 0.023720788119935513,
+        "slope_third": -0.0037637205684888787,
+        "slope_whole": 0.01619584922206808,
+        "max_dev": 37,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0503,
+        "current_price": 35.33000183105469
+    },
+    "SLV_1h_25c_2025-08-25 13-30-00.png": {
+        "slope_first": 0.01577447458475564,
+        "slope_second": 0.021751710083447468,
+        "slope_third": -0.017394503425149536,
+        "slope_whole": 0.015956550778979162,
+        "max_dev": 36,
+        "price_change": -83,
+        "colored_pixels_ratio": 0.0528,
+        "current_price": 35.290000915527344
+    },
+    "SLV_1h_25c_2025-08-25 14-30-00.png": {
+        "slope_first": 0.014812004941136683,
+        "slope_second": 0.019542325536171565,
+        "slope_third": -0.011309522740981496,
+        "slope_whole": 0.015595382063230748,
+        "max_dev": 35,
+        "price_change": -86,
+        "colored_pixels_ratio": 0.0522,
+        "current_price": 35.29069900512695
+    },
+    "SLV_1h_25c_2025-08-25 15-30-00.png": {
+        "slope_first": 0.012332922671021557,
+        "slope_second": 0.01574074130384573,
+        "slope_third": -0.0043899031246412545,
+        "slope_whole": 0.014810622427293871,
+        "max_dev": 34,
+        "price_change": -82,
+        "colored_pixels_ratio": 0.0523,
+        "current_price": 35.220001220703125
+    },
+    "SLV_1h_25c_2025-08-25 16-30-00.png": {
+        "slope_first": 0.008808052090465012,
+        "slope_second": 0.010364067013524186,
+        "slope_third": -0.0011481060701258624,
+        "slope_whole": 0.01361575216206934,
+        "max_dev": 42,
+        "price_change": -75,
+        "colored_pixels_ratio": 0.0653,
+        "current_price": 35.17499923706055
+    },
+    "SLV_1h_25c_2025-08-25 17-30-00.png": {
+        "slope_first": 0.008225663678557541,
+        "slope_second": 0.003945505936749739,
+        "slope_third": -0.011864448996151609,
+        "slope_whole": 0.013006900497789041,
+        "max_dev": 41,
+        "price_change": -73,
+        "colored_pixels_ratio": 0.0672,
+        "current_price": 35.149898529052734
+    },
+    "SLV_1h_25c_2025-08-25 18-30-00.png": {
+        "slope_first": 0.008415664910983932,
+        "slope_second": -0.002709709249910846,
+        "slope_third": -0.012493582332836402,
+        "slope_whole": 0.012171988477229004,
+        "max_dev": 44,
+        "price_change": -65,
+        "colored_pixels_ratio": 0.069,
+        "current_price": 35.07500076293945
+    },
+    "SLV_1h_25c_2025-08-25 19-30-00.png": {
+        "slope_first": 0.011237328793822263,
+        "slope_second": -0.007092862901996687,
+        "slope_third": -0.012132190255558456,
+        "slope_whole": 0.01111871416633844,
+        "max_dev": 47,
+        "price_change": -60,
+        "colored_pixels_ratio": 0.0705,
+        "current_price": 35.029998779296875
+    },
+    "SLV_1h_25c_2025-08-26 13-30-00.png": {
+        "slope_first": 0.015925004095876792,
+        "slope_second": -0.008830440379276626,
+        "slope_third": -0.015785043379840113,
+        "slope_whole": 0.009763155781825617,
+        "max_dev": 48,
+        "price_change": -60,
+        "colored_pixels_ratio": 0.0741,
+        "current_price": 35.02000045776367
+    },
+    "SLV_1h_25c_2025-08-26 14-30-00.png": {
+        "slope_first": 0.0190042966038955,
+        "slope_second": -0.009561736620917844,
+        "slope_third": -0.00982202642104251,
+        "slope_whole": 0.008408978562651064,
+        "max_dev": 48,
+        "price_change": -58,
+        "colored_pixels_ratio": 0.075,
+        "current_price": 35.000099182128906
+    },
+    "SLV_1h_25c_2025-08-26 15-30-00.png": {
+        "slope_first": 0.02135471888950928,
+        "slope_second": -0.009178426314373494,
+        "slope_third": -0.0016164835761577681,
+        "slope_whole": 0.007055098736497102,
+        "max_dev": 51,
+        "price_change": -54,
+        "colored_pixels_ratio": 0.0781,
+        "current_price": 34.99700164794922
+    },
+    "SLV_1h_25c_2025-08-26 16-30-00.png": {
+        "slope_first": 0.022786286023198526,
+        "slope_second": -0.008277890135546345,
+        "slope_third": 0.002604232114903653,
+        "slope_whole": 0.005657265677739509,
+        "max_dev": 50,
+        "price_change": -49,
+        "colored_pixels_ratio": 0.0786,
+        "current_price": 35.005001068115234
+    },
+    "SLV_1h_25c_2025-08-26 17-30-00.png": {
+        "slope_first": 0.023539933368366916,
+        "slope_second": -0.007274982502766604,
+        "slope_third": -0.0030066714567302073,
+        "slope_whole": 0.004417722434780105,
+        "max_dev": 49,
+        "price_change": -34,
+        "colored_pixels_ratio": 0.0756,
+        "current_price": 34.97489929199219
+    },
+    "SLV_1h_25c_2025-08-26 18-30-00.png": {
+        "slope_first": 0.022722742417279337,
+        "slope_second": -0.006678548128235643,
+        "slope_third": -0.0021108571220848746,
+        "slope_whole": 0.0032868485517983516,
+        "max_dev": 52,
+        "price_change": -39,
+        "colored_pixels_ratio": 0.0759,
+        "current_price": 35.025001525878906
+    },
+    "SLV_1h_25c_2025-08-26 19-30-00.png": {
+        "slope_first": 0.020823953360641342,
+        "slope_second": -0.005755733934198663,
+        "slope_third": 0.0017001656924980468,
+        "slope_whole": 0.0021405533802890484,
+        "max_dev": 56,
+        "price_change": -40,
+        "colored_pixels_ratio": 0.0749,
+        "current_price": 35.02000045776367
+    },
+    "SLV_1h_25c_2025-08-27 13-30-00.png": {
+        "slope_first": 0.017903311776370345,
+        "slope_second": -0.006554547111813477,
+        "slope_third": -0.017507642858168596,
+        "slope_whole": 0.00017025807652793789,
+        "max_dev": 62,
+        "price_change": -20,
+        "colored_pixels_ratio": 0.0768,
+        "current_price": 34.779998779296875
+    },
+    "SLV_1h_25c_2025-08-27 14-30-00.png": {
+        "slope_first": 0.013250601632254345,
+        "slope_second": -0.006048454110648121,
+        "slope_third": -0.0162612915039066,
+        "slope_whole": -0.0015580847711848386,
+        "max_dev": 69,
+        "price_change": -33,
+        "colored_pixels_ratio": 0.0805,
+        "current_price": 34.915000915527344
+    },
+    "SLV_1h_25c_2025-08-27 15-30-00.png": {
+        "slope_first": 0.007281249780185129,
+        "slope_second": -0.004692731768000157,
+        "slope_third": -0.0014336978687959354,
+        "slope_whole": -0.003098430227239025,
+        "max_dev": 78,
+        "price_change": -36,
+        "colored_pixels_ratio": 0.0808,
+        "current_price": 34.98500061035156
+    },
+    "SLV_1h_25c_2025-08-27 16-30-00.png": {
+        "slope_first": 0.00034694969296336664,
+        "slope_second": -0.00260454083977343,
+        "slope_third": 0.023307615167953946,
+        "slope_whole": -0.004506619622533566,
+        "max_dev": 87,
+        "price_change": -55,
+        "colored_pixels_ratio": 0.0825,
+        "current_price": 35.05500030517578
+    },
+    "SLV_1h_25c_2025-08-27 17-30-00.png": {
+        "slope_first": -0.006030458264849354,
+        "slope_second": -0.0009458152157347132,
+        "slope_third": 0.014852624780991051,
+        "slope_whole": -0.005472786162588495,
+        "max_dev": 39,
+        "price_change": 12,
+        "colored_pixels_ratio": 0.0779,
+        "current_price": 35.03499984741211
+    },
+    "SLV_1h_25c_2025-08-27 18-30-00.png": {
+        "slope_first": -0.008376060018734387,
+        "slope_second": -0.00018638400184295908,
+        "slope_third": 0.005096710429472033,
+        "slope_whole": -0.0052948514455937274,
+        "max_dev": 41,
+        "price_change": 47,
+        "colored_pixels_ratio": 0.0691,
+        "current_price": 35.0099983215332
+    },
+    "SLV_1h_25c_2025-08-27 19-30-00.png": {
+        "slope_first": -0.009305194612024581,
+        "slope_second": 0.00023333179707435938,
+        "slope_third": -0.003308610355153395,
+        "slope_whole": -0.004907309860930063,
+        "max_dev": 43,
+        "price_change": 41,
+        "colored_pixels_ratio": 0.0666,
+        "current_price": 34.97999954223633
+    },
+    "SLV_1h_25c_2025-08-28 13-30-00.png": {
+        "slope_first": -0.009458437183467205,
+        "slope_second": 0.004077571580389933,
+        "slope_third": 0.02056625029619951,
+        "slope_whole": -0.0035868351086818053,
+        "max_dev": 61,
+        "price_change": 13,
+        "colored_pixels_ratio": 0.068,
+        "current_price": 35.310001373291016
+    },
+    "SLV_1h_25c_2025-08-28 14-30-00.png": {
+        "slope_first": -0.008817897215038386,
+        "slope_second": 0.006684140575175434,
+        "slope_third": 0.02641011967378485,
+        "slope_whole": -0.002317375254065942,
+        "max_dev": 54,
+        "price_change": 21,
+        "colored_pixels_ratio": 0.072,
+        "current_price": 35.244998931884766
+    },
+    "SLV_1h_25c_2025-08-28 15-30-00.png": {
+        "slope_first": -0.007756675729373645,
+        "slope_second": 0.009471628434088487,
+        "slope_third": 0.023976589651668583,
+        "slope_whole": -0.0009157887071666931,
+        "max_dev": 53,
+        "price_change": -12,
+        "colored_pixels_ratio": 0.0735,
+        "current_price": 35.48500061035156
+    },
+    "SLV_1h_25c_2025-08-28 16-30-00.png": {
+        "slope_first": -0.006741092677305317,
+        "slope_second": 0.01242953608445326,
+        "slope_third": 0.008512401580810385,
+        "slope_whole": 0.0005972790195889358,
+        "max_dev": 55,
+        "price_change": -43,
+        "colored_pixels_ratio": 0.073,
+        "current_price": 35.45989990234375
+    },
+    "SLV_1h_25c_2025-08-28 17-30-00.png": {
+        "slope_first": -0.006523512603283389,
+        "slope_second": 0.015033009358528608,
+        "slope_third": 0.015264741112203783,
+        "slope_whole": 0.0017240613908192381,
+        "max_dev": 56,
+        "price_change": -23,
+        "colored_pixels_ratio": 0.0661,
+        "current_price": 35.5
+    },
+    "SLV_1h_25c_2025-08-28 18-30-00.png": {
+        "slope_first": -0.006135172574889328,
+        "slope_second": 0.015655192619039818,
+        "slope_third": 0.008221026027903318,
+        "slope_whole": 0.003034736594387023,
+        "max_dev": 56,
+        "price_change": -17,
+        "colored_pixels_ratio": 0.0667,
+        "current_price": 35.45000076293945
+    },
+    "SLV_1h_25c_2025-08-28 19-30-00.png": {
+        "slope_first": -0.006295749073555173,
+        "slope_second": 0.014250054330814468,
+        "slope_third": 0.00019142487469812894,
+        "slope_whole": 0.0042283998907702725,
+        "max_dev": 55,
+        "price_change": -32,
+        "colored_pixels_ratio": 0.0659,
+        "current_price": 35.5099983215332
+    },
+    "SLV_1h_25c_2025-08-29 13-30-00.png": {
+        "slope_first": -0.005430495867780622,
+        "slope_second": 0.01289735938320639,
+        "slope_third": -0.00010898253496941139,
+        "slope_whole": 0.005205111934228219,
+        "max_dev": 49,
+        "price_change": -41,
+        "colored_pixels_ratio": 0.0663,
+        "current_price": 35.575401306152344
+    },
+    "SLV_1h_25c_2025-08-29 14-30-00.png": {
+        "slope_first": -0.0036559877246795146,
+        "slope_second": 0.013568940820957318,
+        "slope_third": 0.015520651200238206,
+        "slope_whole": 0.006540782847205591,
+        "max_dev": 39,
+        "price_change": -52,
+        "colored_pixels_ratio": 0.0603,
+        "current_price": 35.775001525878906
+    },
+    "SLV_1h_25c_2025-08-29 15-30-00.png": {
+        "slope_first": -0.0016865735552033228,
+        "slope_second": 0.016188104636385873,
+        "slope_third": 0.04167290855856522,
+        "slope_whole": 0.008298787856080334,
+        "max_dev": 38,
+        "price_change": -67,
+        "colored_pixels_ratio": 0.0544,
+        "current_price": 36.13999938964844
+    },
+    "SLV_1h_25c_2025-08-29 16-30-00.png": {
+        "slope_first": -0.0003284788646904771,
+        "slope_second": 0.01916855737656386,
+        "slope_third": 0.05923309887156777,
+        "slope_whole": 0.010261796412795536,
+        "max_dev": 34,
+        "price_change": -76,
+        "colored_pixels_ratio": 0.0516,
+        "current_price": 36.19010162353516
+    },
+    "SLV_1h_25c_2025-08-29 17-30-00.png": {
+        "slope_first": -8.320985865073737e-05,
+        "slope_second": 0.019699634675647597,
+        "slope_third": 0.037497082878561266,
+        "slope_whole": 0.011651252451294817,
+        "max_dev": 30,
+        "price_change": -63,
+        "colored_pixels_ratio": 0.0516,
+        "current_price": 36.07500076293945
+    },
+    "SLV_1h_25c_2025-08-29 18-30-00.png": {
+        "slope_first": 0.002361447813988976,
+        "slope_second": 0.02000620536300456,
+        "slope_third": 0.007894095252541516,
+        "slope_whole": 0.012844979497644462,
+        "max_dev": 28,
+        "price_change": -66,
+        "colored_pixels_ratio": 0.0516,
+        "current_price": 36.1150016784668
+    },
+    "SLV_1h_25c_2025-08-29 19-30-00.png": {
+        "slope_first": 0.005689115856303363,
+        "slope_second": 0.020924201040279523,
+        "slope_third": -0.003756152882296106,
+        "slope_whole": 0.014006192802202572,
+        "max_dev": 25,
+        "price_change": -71,
+        "colored_pixels_ratio": 0.0525,
+        "current_price": 36.20000076293945
+    },
+    "SLV_1h_25c_2025-09-02 13-30-00.png": {
+        "slope_first": 0.008147385724309196,
+        "slope_second": 0.02514589875256748,
+        "slope_third": 0.0410716056823729,
+        "slope_whole": 0.0161386597796743,
+        "max_dev": 30,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0448,
+        "current_price": 36.845001220703125
+    },
+    "SLV_1h_25c_2025-09-02 14-30-00.png": {
+        "slope_first": 0.011058303081974825,
+        "slope_second": 0.03062089862800595,
+        "slope_third": 0.07402246699613665,
+        "slope_whole": 0.01848268469425079,
+        "max_dev": 28,
+        "price_change": -84,
+        "colored_pixels_ratio": 0.0445,
+        "current_price": 37.06999969482422
+    },
+    "SLV_1h_25c_2025-09-02 15-30-00.png": {
+        "slope_first": 0.013735973454323184,
+        "slope_second": 0.03529613096459297,
+        "slope_third": 0.07126426696777302,
+        "slope_whole": 0.020773771270559564,
+        "max_dev": 23,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0423,
+        "current_price": 37.07500076293945
+    },
+    "SLV_1h_25c_2025-09-02 16-30-00.png": {
+        "slope_first": 0.016133970006459625,
+        "slope_second": 0.03762044551707405,
+        "slope_third": 0.028443818933823344,
+        "slope_whole": 0.0226828767242569,
+        "max_dev": 21,
+        "price_change": -90,
+        "colored_pixels_ratio": 0.0442,
+        "current_price": 37.02999877929688
+    },
+    "SLV_1h_25c_2025-09-02 17-30-00.png": {
+        "slope_first": 0.01469831725414761,
+        "slope_second": 0.03742718095539,
+        "slope_third": 0.008208549723905681,
+        "slope_whole": 0.02351028485874718,
+        "max_dev": 23,
+        "price_change": -97,
+        "colored_pixels_ratio": 0.0462,
+        "current_price": 37.095001220703125
+    },
+    "SLV_1h_25c_2025-09-02 18-30-00.png": {
+        "slope_first": 0.013430114782729586,
+        "slope_second": 0.03522355976081837,
+        "slope_third": 0.0027568536646220307,
+        "slope_whole": 0.024319522536054867,
+        "max_dev": 24,
+        "price_change": -97,
+        "colored_pixels_ratio": 0.047,
+        "current_price": 37.125
+    },
+    "SLV_1h_25c_2025-09-02 19-30-00.png": {
+        "slope_first": 0.013239224400697854,
+        "slope_second": 0.03182317085769848,
+        "slope_third": 0.00675567739150083,
+        "slope_whole": 0.024983617998335657,
+        "max_dev": 23,
+        "price_change": -97,
+        "colored_pixels_ratio": 0.0462,
+        "current_price": 37.15499877929688
+    },
+    "SLV_1h_25c_2025-09-03 13-30-00.png": {
+        "slope_first": 0.014999065238888594,
+        "slope_second": 0.03111363038867886,
+        "slope_third": 0.0270830322714411,
+        "slope_whole": 0.026086484312188355,
+        "max_dev": 19,
+        "price_change": -93,
+        "colored_pixels_ratio": 0.0422,
+        "current_price": 37.570098876953125
+    },
+    "SLV_1h_25c_2025-09-03 14-30-00.png": {
+        "slope_first": 0.01798687242230876,
+        "slope_second": 0.030715205088382963,
+        "slope_third": 0.029236810347613086,
+        "slope_whole": 0.02678873588042395,
+        "max_dev": 18,
+        "price_change": -88,
+        "colored_pixels_ratio": 0.0443,
+        "current_price": 37.400001525878906
+    },
+    "SLV_1h_25c_2025-09-03 15-30-00.png": {
+        "slope_first": 0.019973340349323458,
+        "slope_second": 0.029214673357135734,
+        "slope_third": 0.020145393820369634,
+        "slope_whole": 0.02695468031605402,
+        "max_dev": 18,
+        "price_change": -91,
+        "colored_pixels_ratio": 0.0452,
+        "current_price": 37.47999954223633
+    },
+    "SLV_1h_25c_2025-09-03 16-30-00.png": {
+        "slope_first": 0.01898753977909519,
+        "slope_second": 0.025372398348988013,
+        "slope_third": 0.0038384605856497376,
+        "slope_whole": 0.026747960280342088,
+        "max_dev": 20,
+        "price_change": -87,
+        "colored_pixels_ratio": 0.05,
+        "current_price": 37.53990173339844
+    },
+    "SLV_1h_25c_2025-09-03 17-30-00.png": {
+        "slope_first": 0.02049401859132319,
+        "slope_second": 0.020118549250755045,
+        "slope_third": 0.007655070809756639,
+        "slope_whole": 0.02708219661535242,
+        "max_dev": 19,
+        "price_change": -93,
+        "colored_pixels_ratio": 0.0494,
+        "current_price": 37.56999969482422
+    },
+    "SLV_1h_25c_2025-09-03 18-30-00.png": {
+        "slope_first": 0.023262422705898785,
+        "slope_second": 0.015041160446112112,
+        "slope_third": 0.00011765536139968459,
+        "slope_whole": 0.02657763701174807,
+        "max_dev": 22,
+        "price_change": -84,
+        "colored_pixels_ratio": 0.0515,
+        "current_price": 37.31499862670898
+    },
+    "SLV_1h_25c_2025-09-03 19-30-00.png": {
+        "slope_first": 0.0279335683247908,
+        "slope_second": 0.011165452020652082,
+        "slope_third": -0.016357012356029318,
+        "slope_whole": 0.025584987316480675,
+        "max_dev": 24,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0506,
+        "current_price": 37.33000183105469
+    },
+    "SLV_1h_25c_2025-09-04 13-30-00.png": {
+        "slope_first": 0.03332766987410172,
+        "slope_second": 0.005371547850097042,
+        "slope_third": -0.04841635086957167,
+        "slope_whole": 0.023617835446874683,
+        "max_dev": 51,
+        "price_change": -57,
+        "colored_pixels_ratio": 0.0562,
+        "current_price": 36.775001525878906
+    },
+    "SLV_1h_25c_2025-09-04 14-30-00.png": {
+        "slope_first": 0.036963033504417424,
+        "slope_second": -0.00044724444953758285,
+        "slope_third": -0.05355782228357707,
+        "slope_whole": 0.021162329535565853,
+        "max_dev": 44,
+        "price_change": -62,
+        "colored_pixels_ratio": 0.0579,
+        "current_price": 36.93629837036133
+    },
+    "SLV_1h_25c_2025-09-04 15-30-00.png": {
+        "slope_first": 0.03776570955530637,
+        "slope_second": -0.00545180633288458,
+        "slope_third": -0.030769297655891394,
+        "slope_whole": 0.01867487406394439,
+        "max_dev": 39,
+        "price_change": -65,
+        "colored_pixels_ratio": 0.0579,
+        "current_price": 36.96530151367188
+    },
+    "SLV_1h_25c_2025-09-04 16-30-00.png": {
+        "slope_first": 0.036728962397947165,
+        "slope_second": -0.009752913494499391,
+        "slope_third": -0.000574807559742899,
+        "slope_whole": 0.015890651145497692,
+        "max_dev": 34,
+        "price_change": -67,
+        "colored_pixels_ratio": 0.058,
+        "current_price": 36.918399810791016
+    },
+    "SLV_1h_25c_2025-09-04 17-30-00.png": {
+        "slope_first": 0.03327687624121942,
+        "slope_second": -0.0147030826490752,
+        "slope_third": -0.0026535819558540187,
+        "slope_whole": 0.012515000882107115,
+        "max_dev": 37,
+        "price_change": -58,
+        "colored_pixels_ratio": 0.063,
+        "current_price": 36.78810119628906
+    },
+    "SLV_1h_25c_2025-09-04 18-30-00.png": {
+        "slope_first": 0.031305685970677476,
+        "slope_second": -0.017103489467075746,
+        "slope_third": -0.011619988609763205,
+        "slope_whole": 0.00946589495375317,
+        "max_dev": 38,
+        "price_change": -59,
+        "colored_pixels_ratio": 0.0668,
+        "current_price": 36.900001525878906
+    },
+    "SLV_1h_25c_2025-09-04 19-30-00.png": {
+        "slope_first": 0.031187336384749173,
+        "slope_second": -0.01643191132654209,
+        "slope_third": -0.0032492749831255162,
+        "slope_whole": 0.007038914439844654,
+        "max_dev": 44,
+        "price_change": -48,
+        "colored_pixels_ratio": 0.0705,
+        "current_price": 36.91999816894531
+    },
+    "SLV_1h_25c_2025-09-05 13-30-00.png": {
+        "slope_first": 0.030142509762694003,
+        "slope_second": -0.012685397034790356,
+        "slope_third": 0.03135321000043054,
+        "slope_whole": 0.00584768886434536,
+        "max_dev": 45,
+        "price_change": -56,
+        "colored_pixels_ratio": 0.0759,
+        "current_price": 37.09349822998047
+    },
+    "SLV_1h_25c_2025-09-05 14-30-00.png": {
+        "slope_first": 0.02749786670039099,
+        "slope_second": -0.009316045937417932,
+        "slope_third": 0.02658315546372288,
+        "slope_whole": 0.003942962083378858,
+        "max_dev": 51,
+        "price_change": -70,
+        "colored_pixels_ratio": 0.0764,
+        "current_price": 37.209999084472656
+    },
+    "SLV_1h_25c_2025-09-05 15-30-00.png": {
+        "slope_first": 0.02291665964481453,
+        "slope_second": -0.003631198145762238,
+        "slope_third": 0.017824537613812093,
+        "slope_whole": 0.002024460960500054,
+        "max_dev": 58,
+        "price_change": -76,
+        "colored_pixels_ratio": 0.0799,
+        "current_price": 37.29499816894531
+    },
+    "SLV_1h_25c_2025-09-05 16-30-00.png": {
+        "slope_first": 0.016972775316180876,
+        "slope_second": 0.0024549327177160497,
+        "slope_third": -0.004454085406135158,
+        "slope_whole": -1.7737850139969286e-05,
+        "max_dev": 58,
+        "price_change": -45,
+        "colored_pixels_ratio": 0.1016,
+        "current_price": 37.16999816894531
+    },
+    "SLV_1h_25c_2025-09-05 17-30-00.png": {
+        "slope_first": 0.01251579660184339,
+        "slope_second": 0.006375685344938664,
+        "slope_third": 0.0032450058880970564,
+        "slope_whole": -0.000996832906252031,
+        "max_dev": 51,
+        "price_change": -33,
+        "colored_pixels_ratio": 0.1124,
+        "current_price": 37.185001373291016
+    },
+    "SLV_1h_25c_2025-09-05 18-30-00.png": {
+        "slope_first": 0.009041497275179552,
+        "slope_second": 0.009931806768117396,
+        "slope_third": -0.0056227179134596345,
+        "slope_whole": -0.0014436771588538387,
+        "max_dev": 53,
+        "price_change": -13,
+        "colored_pixels_ratio": 0.1064,
+        "current_price": 37.20149993896485
+    },
+    "SLV_1h_25c_2025-09-05 19-30-00.png": {
+        "slope_first": 0.0022927204328997744,
+        "slope_second": 0.008686713210675037,
+        "slope_third": -0.0023666045245003316,
+        "slope_whole": -0.0015949975582275984,
+        "max_dev": 54,
+        "price_change": -12,
+        "colored_pixels_ratio": 0.1057,
+        "current_price": 37.20500183105469
+    },
+    "SLV_1h_25c_2025-09-08 13-30-00.png": {
+        "slope_first": -0.003041367547995955,
+        "slope_second": 0.010634555518985024,
+        "slope_third": 0.020381826512953335,
+        "slope_whole": -0.0011497428200462562,
+        "max_dev": 56,
+        "price_change": -37,
+        "colored_pixels_ratio": 0.109,
+        "current_price": 37.399898529052734
+    },
+    "SLV_1h_25c_2025-09-08 14-30-00.png": {
+        "slope_first": -0.007621237398768386,
+        "slope_second": 0.012719756970170895,
+        "slope_third": 0.029506621641271324,
+        "slope_whole": -0.0006665836795471843,
+        "max_dev": 54,
+        "price_change": -36,
+        "colored_pixels_ratio": 0.0972,
+        "current_price": 37.53499984741211
+    },
+    "SLV_1h_25c_2025-09-08 15-30-00.png": {
+        "slope_first": -0.012019279086145997,
+        "slope_second": 0.013362611218803905,
+        "slope_third": 0.02280685761395591,
+        "slope_whole": -0.00014667184797092242,
+        "max_dev": 51,
+        "price_change": -33,
+        "colored_pixels_ratio": 0.0974,
+        "current_price": 37.51599884033203
+    },
+    "SLV_1h_25c_2025-09-08 16-30-00.png": {
+        "slope_first": -0.016796587775735443,
+        "slope_second": 0.011454110208536622,
+        "slope_third": -0.0022412300109863367,
+        "slope_whole": 0.00023759440763412626,
+        "max_dev": 50,
+        "price_change": -13,
+        "colored_pixels_ratio": 0.0975,
+        "current_price": 37.48500061035156
+    },
+    "SLV_1h_25c_2025-09-08 17-30-00.png": {
+        "slope_first": -0.017315795275629844,
+        "slope_second": 0.009396535042239492,
+        "slope_third": -0.005094909667969347,
+        "slope_whole": 0.001294261201022436,
+        "max_dev": 48,
+        "price_change": 5,
+        "colored_pixels_ratio": 0.0911,
+        "current_price": 37.52000045776367
+    },
+    "SLV_1h_25c_2025-09-08 18-30-00.png": {
+        "slope_first": -0.013881384218726365,
+        "slope_second": 0.00980626045584247,
+        "slope_third": -0.0024150119108311743,
+        "slope_whole": 0.002431287356335497,
+        "max_dev": 46,
+        "price_change": -8,
+        "colored_pixels_ratio": 0.0861,
+        "current_price": 37.48989868164063
+    },
+    "SLV_1h_25c_2025-09-08 19-30-00.png": {
+        "slope_first": -0.01113577101983363,
+        "slope_second": 0.008807027938128317,
+        "slope_third": 0.0005431287428912826,
+        "slope_whole": 0.003471001282562227,
+        "max_dev": 42,
+        "price_change": -1,
+        "colored_pixels_ratio": 0.084,
+        "current_price": 37.494998931884766
+    },
+    "SLV_1h_25c_2025-09-09 13-30-00.png": {
+        "slope_first": -0.006659581984649583,
+        "slope_second": 0.0064594471211335755,
+        "slope_third": -0.012151908874511936,
+        "slope_whole": 0.004331024700980827,
+        "max_dev": 47,
+        "price_change": 20,
+        "colored_pixels_ratio": 0.0889,
+        "current_price": 37.29999923706055
+    },
+    "SLV_1h_25c_2025-09-09 14-30-00.png": {
+        "slope_first": -0.0004083204326654105,
+        "slope_second": 0.003581705448292562,
+        "slope_third": -0.028141268561869007,
+        "slope_whole": 0.004998153723148066,
+        "max_dev": 50,
+        "price_change": 34,
+        "colored_pixels_ratio": 0.0926,
+        "current_price": 37.1599006652832
+    },
+    "SLV_1h_25c_2025-09-09 15-30-00.png": {
+        "slope_first": 0.004360685863700729,
+        "slope_second": -0.0005931547423657244,
+        "slope_third": -0.030664146647734217,
+        "slope_whole": 0.005342003690420382,
+        "max_dev": 44,
+        "price_change": 15,
+        "colored_pixels_ratio": 0.0874,
+        "current_price": 37.1349983215332
+    },
+    "SLV_1h_25c_2025-09-09 16-30-00.png": {
+        "slope_first": 0.00846915768260396,
+        "slope_second": -0.00485869518705914,
+        "slope_third": -0.02080433789421534,
+        "slope_whole": 0.005389640801238332,
+        "max_dev": 47,
+        "price_change": 10,
+        "colored_pixels_ratio": 0.0879,
+        "current_price": 37.07989883422852
+    },
+    "SLV_1h_25c_2025-09-09 17-30-00.png": {
+        "slope_first": 0.00904828184936113,
+        "slope_second": -0.009025550833126094,
+        "slope_third": -0.008784686817842774,
+        "slope_whole": 0.004559431742734846,
+        "max_dev": 52,
+        "price_change": -33,
+        "colored_pixels_ratio": 0.0829,
+        "current_price": 37.14500045776367
+    },
+    "SLV_1h_25c_2025-09-09 18-30-00.png": {
+        "slope_first": 0.009980254797231549,
+        "slope_second": -0.01056602212418163,
+        "slope_third": 0.00027619530172902487,
+        "slope_whole": 0.003548798307870375,
+        "max_dev": 53,
+        "price_change": -19,
+        "colored_pixels_ratio": 0.0791,
+        "current_price": 37.15499877929688
+    },
+    "SLV_1h_25c_2025-09-09 19-30-00.png": {
+        "slope_first": 0.012050730326310112,
+        "slope_second": -0.010722348692895088,
+        "slope_third": 0.003662675969740583,
+        "slope_whole": 0.002729038383879811,
+        "max_dev": 53,
+        "price_change": -17,
+        "colored_pixels_ratio": 0.0784,
+        "current_price": 37.150001525878906
+    },
+    "SLV_1h_25c_2025-09-10 13-30-00.png": {
+        "slope_first": 0.013401061718632833,
+        "slope_second": -0.007850234820490569,
+        "slope_third": 0.021263066460104733,
+        "slope_whole": 0.0024460047170487666,
+        "max_dev": 53,
+        "price_change": -50,
+        "colored_pixels_ratio": 0.0801,
+        "current_price": 37.46500015258789
+    },
+    "SLV_1h_25c_2025-09-10 14-30-00.png": {
+        "slope_first": 0.012429564843515244,
+        "slope_second": -0.0050802176339285925,
+        "slope_third": 0.022279481326832627,
+        "slope_whole": 0.0017499921989270252,
+        "max_dev": 54,
+        "price_change": -54,
+        "colored_pixels_ratio": 0.0859,
+        "current_price": 37.36000061035156
+    },
+    "SLV_1h_25c_2025-09-10 15-30-00.png": {
+        "slope_first": 0.01040563851272955,
+        "slope_second": -0.002578873101975136,
+        "slope_third": 0.01471553690293248,
+        "slope_whole": 0.0009275019680312781,
+        "max_dev": 58,
+        "price_change": -49,
+        "colored_pixels_ratio": 0.0909,
+        "current_price": 37.369998931884766
+    },
+    "SLV_1h_25c_2025-09-10 16-30-00.png": {
+        "slope_first": 0.008349534271716691,
+        "slope_second": 0.0001749400932248323,
+        "slope_third": -0.005107576706830623,
+        "slope_whole": 0.00012672335043565315,
+        "max_dev": 60,
+        "price_change": 9,
+        "colored_pixels_ratio": 0.0996,
+        "current_price": 37.33000183105469
+    },
+    "SLV_1h_25c_2025-09-10 17-30-00.png": {
+        "slope_first": 0.00922259363950662,
+        "slope_second": 0.0031844239160509335,
+        "slope_third": -0.0032934918123131225,
+        "slope_whole": 0.00023304801641052287,
+        "max_dev": 60,
+        "price_change": -36,
+        "colored_pixels_ratio": 0.0891,
+        "current_price": 37.40349960327149
+    },
+    "SLV_1h_25c_2025-09-10 18-30-00.png": {
+        "slope_first": 0.00805628434235004,
+        "slope_second": 0.006060910264984876,
+        "slope_third": -0.0034627129049859514,
+        "slope_whole": -0.0001983375675214738,
+        "max_dev": 60,
+        "price_change": -8,
+        "colored_pixels_ratio": 0.0926,
+        "current_price": 37.269901275634766
+    },
+    "SLV_1h_25c_2025-09-10 19-30-00.png": {
+        "slope_first": 0.005403571340645472,
+        "slope_second": 0.006585673026534895,
+        "slope_third": -0.0031176118289726732,
+        "slope_whole": -0.0003534902669342958,
+        "max_dev": 59,
+        "price_change": -12,
+        "colored_pixels_ratio": 0.0939,
+        "current_price": 37.38999938964844
+    },
+    "SLV_1h_25c_2025-09-11 13-30-00.png": {
+        "slope_first": 0.0015341098597639086,
+        "slope_second": 0.007157518952405327,
+        "slope_third": 0.007912618973675315,
+        "slope_whole": -0.0002367963313056849,
+        "max_dev": 58,
+        "price_change": -51,
+        "colored_pixels_ratio": 0.0979,
+        "current_price": 37.57989883422852
+    },
+    "SLV_1h_25c_2025-09-11 14-30-00.png": {
+        "slope_first": -0.0026745724534932075,
+        "slope_second": 0.007948764649902863,
+        "slope_third": 0.020308814329259274,
+        "slope_whole": -6.0783361050897164e-05,
+        "max_dev": 57,
+        "price_change": -50,
+        "colored_pixels_ratio": 0.0995,
+        "current_price": 37.59989929199219
+    },
+    "SLV_1h_25c_2025-09-11 15-30-00.png": {
+        "slope_first": -0.007012209669024141,
+        "slope_second": 0.009247805079062955,
+        "slope_third": 0.03245800242704478,
+        "slope_whole": 0.0004527540461565354,
+        "max_dev": 58,
+        "price_change": -73,
+        "colored_pixels_ratio": 0.0984,
+        "current_price": 37.8650016784668
+    },
+    "SLV_1h_25c_2025-09-11 16-30-00.png": {
+        "slope_first": -0.010715953007179651,
+        "slope_second": 0.010433150860441835,
+        "slope_third": 0.02653549418729835,
+        "slope_whole": 0.0010088584618350115,
+        "max_dev": 53,
+        "price_change": -18,
+        "colored_pixels_ratio": 0.1028,
+        "current_price": 37.727500915527344
+    },
+    "SLV_1h_25c_2025-09-11 17-30-00.png": {
+        "slope_first": -0.011175514944747802,
+        "slope_second": 0.010100563479786566,
+        "slope_third": 0.01092278536628279,
+        "slope_whole": 0.0019922580942176747,
+        "max_dev": 57,
+        "price_change": -30,
+        "colored_pixels_ratio": 0.0992,
+        "current_price": 37.669898986816406
+    },
+    "SLV_1h_25c_2025-09-11 18-30-00.png": {
+        "slope_first": -0.00957675965894162,
+        "slope_second": 0.009904909900972012,
+        "slope_third": -0.0057064056396486,
+        "slope_whole": 0.0029821746899422077,
+        "max_dev": 44,
+        "price_change": -21,
+        "colored_pixels_ratio": 0.0936,
+        "current_price": 37.72499847412109
+    },
+    "SLV_1h_25c_2025-09-11 19-30-00.png": {
+        "slope_first": -0.006179938711324364,
+        "slope_second": 0.011335948380817208,
+        "slope_third": -0.004631227605483258,
+        "slope_whole": 0.004084093498461005,
+        "max_dev": 41,
+        "price_change": -30,
+        "colored_pixels_ratio": 0.0936,
+        "current_price": 37.78499984741211
+    },
+    "SLV_1h_25c_2025-09-12 13-30-00.png": {
+        "slope_first": -0.003909232333069902,
+        "slope_second": 0.01627369343733576,
+        "slope_third": 0.043036870395436286,
+        "slope_whole": 0.006289509482259132,
+        "max_dev": 48,
+        "price_change": -64,
+        "colored_pixels_ratio": 0.0656,
+        "current_price": 38.403926849365234
+    },
+    "SLV_1h_25c_2025-09-12 14-30-00.png": {
+        "slope_first": -0.0012799812307738296,
+        "slope_second": 0.020180450476088914,
+        "slope_third": 0.058349912306841584,
+        "slope_whole": 0.008415716007025379,
+        "max_dev": 41,
+        "price_change": -54,
+        "colored_pixels_ratio": 0.067,
+        "current_price": 38.30500030517578
+    },
+    "SLV_1h_25c_2025-09-12 15-30-00.png": {
+        "slope_first": 0.0016353564130733114,
+        "slope_second": 0.022280656830603388,
+        "slope_third": 0.04048526427325048,
+        "slope_whole": 0.010396324475892418,
+        "max_dev": 37,
+        "price_change": -60,
+        "colored_pixels_ratio": 0.0673,
+        "current_price": 38.35499954223633
+    },
+    "SLV_1h_25c_2025-09-12 16-30-00.png": {
+        "slope_first": 0.004893367625370365,
+        "slope_second": 0.0237691898048282,
+        "slope_third": 0.004434602400835242,
+        "slope_whole": 0.012308996082103363,
+        "max_dev": 43,
+        "price_change": -66,
+        "colored_pixels_ratio": 0.0679,
+        "current_price": 38.39500045776367
+    },
+    "SLV_1h_25c_2025-09-12 17-30-00.png": {
+        "slope_first": 0.006046943618755897,
+        "slope_second": 0.022807555822622016,
+        "slope_third": 0.0037885609795061136,
+        "slope_whole": 0.013701147473756309,
+        "max_dev": 29,
+        "price_change": -73,
+        "colored_pixels_ratio": 0.0633,
+        "current_price": 38.36989974975586
+    },
+    "SLV_1h_25c_2025-09-12 18-30-00.png": {
+        "slope_first": 0.006848796098029035,
+        "slope_second": 0.02094015059637153,
+        "slope_third": 0.0005533947664142849,
+        "slope_whole": 0.014408649383920181,
+        "max_dev": 29,
+        "price_change": -82,
+        "colored_pixels_ratio": 0.0623,
+        "current_price": 38.30590057373047
+    },
+    "SLV_1h_25c_2025-09-12 19-30-00.png": {
+        "slope_first": 0.007770075071044243,
+        "slope_second": 0.018684954694768593,
+        "slope_third": -0.006812645407284306,
+        "slope_whole": 0.01470172523844167,
+        "max_dev": 30,
+        "price_change": -84,
+        "colored_pixels_ratio": 0.0619,
+        "current_price": 38.32500076293945
+    },
+    "SLV_1h_25c_2025-09-15 13-30-00.png": {
+        "slope_first": 0.008700812478311207,
+        "slope_second": 0.016578025497308364,
+        "slope_third": -0.004267692565918429,
+        "slope_whole": 0.014760294953445488,
+        "max_dev": 30,
+        "price_change": -93,
+        "colored_pixels_ratio": 0.0631,
+        "current_price": 38.400001525878906
+    },
+    "SLV_1h_25c_2025-09-15 14-30-00.png": {
+        "slope_first": 0.010138131424444852,
+        "slope_second": 0.01627964564732156,
+        "slope_third": 0.010754338432760222,
+        "slope_whole": 0.014880409000372748,
+        "max_dev": 29,
+        "price_change": -97,
+        "colored_pixels_ratio": 0.0624,
+        "current_price": 38.54607009887695
+    },
+    "SLV_1h_25c_2025-09-15 15-30-00.png": {
+        "slope_first": 0.010560211328183532,
+        "slope_second": 0.01583559784997989,
+        "slope_third": 0.027106604856602944,
+        "slope_whole": 0.015231697043605611,
+        "max_dev": 25,
+        "price_change": -96,
+        "colored_pixels_ratio": 0.0592,
+        "current_price": 38.72999954223633
+    },
+    "SLV_1h_25c_2025-09-15 16-30-00.png": {
+        "slope_first": 0.009479690679982366,
+        "slope_second": 0.013649729423019293,
+        "slope_third": 0.027264667959773795,
+        "slope_whole": 0.015357757073924986,
+        "max_dev": 28,
+        "price_change": -85,
+        "colored_pixels_ratio": 0.0646,
+        "current_price": 38.650001525878906
+    },
+    "SLV_1h_25c_2025-09-15 17-30-00.png": {
+        "slope_first": 0.010531584521015413,
+        "slope_second": 0.01039556111751328,
+        "slope_third": 0.015062051660873495,
+        "slope_whole": 0.015839112948770315,
+        "max_dev": 28,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0635,
+        "current_price": 38.70650100708008
+    },
+    "SLV_1h_25c_2025-09-15 18-30-00.png": {
+        "slope_first": 0.01398817632521721,
+        "slope_second": 0.009353695762973239,
+        "slope_third": 0.006474242490879746,
+        "slope_whole": 0.016179475987454704,
+        "max_dev": 29,
+        "price_change": -90,
+        "colored_pixels_ratio": 0.0605,
+        "current_price": 38.750099182128906
+    },
+    "SLV_1h_25c_2025-09-15 19-30-00.png": {
+        "slope_first": 0.018731022682510274,
+        "slope_second": 0.010753305350460363,
+        "slope_third": 0.00683951097376176,
+        "slope_whole": 0.01626830775423723,
+        "max_dev": 29,
+        "price_change": -88,
+        "colored_pixels_ratio": 0.0591,
+        "current_price": 38.744998931884766
+    },
+    "SLV_1h_25c_2025-09-16 13-30-00.png": {
+        "slope_first": 0.021368149737922587,
+        "slope_second": 0.012285980371152416,
+        "slope_third": 0.015316615385167485,
+        "slope_whole": 0.01636609516664565,
+        "max_dev": 26,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0565,
+        "current_price": 38.790000915527344
+    },
+    "SLV_1h_25c_2025-09-16 14-30-00.png": {
+        "slope_first": 0.023195501284009542,
+        "slope_second": 0.011425252046619504,
+        "slope_third": -0.0036777552436386626,
+        "slope_whole": 0.015679386481128595,
+        "max_dev": 26,
+        "price_change": -62,
+        "colored_pixels_ratio": 0.0602,
+        "current_price": 38.52000045776367
+    },
+    "SLV_1h_25c_2025-09-16 15-30-00.png": {
+        "slope_first": 0.023417554216511163,
+        "slope_second": 0.00929970712650304,
+        "slope_third": -0.02419117759255798,
+        "slope_whole": 0.014341881377468753,
+        "max_dev": 34,
+        "price_change": -77,
+        "colored_pixels_ratio": 0.0608,
+        "current_price": 38.630001068115234
+    },
+    "SLV_1h_25c_2025-09-16 16-30-00.png": {
+        "slope_first": 0.021778460407600567,
+        "slope_second": 0.007568782884247526,
+        "slope_third": -0.0254403338712811,
+        "slope_whole": 0.012984118571769173,
+        "max_dev": 31,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0608,
+        "current_price": 38.62009811401367
+    },
+    "SLV_1h_25c_2025-09-16 17-30-00.png": {
+        "slope_first": 0.01960254627974262,
+        "slope_second": 0.004380851828035805,
+        "slope_third": -0.006858152501723216,
+        "slope_whole": 0.011629229687800242,
+        "max_dev": 30,
+        "price_change": -62,
+        "colored_pixels_ratio": 0.0625,
+        "current_price": 38.54499816894531
+    },
+    "SLV_1h_25c_2025-09-16 18-30-00.png": {
+        "slope_first": 0.017295118608967316,
+        "slope_second": 0.001159689583841252,
+        "slope_third": 0.002547942890840235,
+        "slope_whole": 0.010341515963119562,
+        "max_dev": 29,
+        "price_change": -72,
+        "colored_pixels_ratio": 0.0685,
+        "current_price": 38.63010025024414
+    },
+    "SLV_1h_25c_2025-09-16 19-30-00.png": {
+        "slope_first": 0.01622109128075078,
+        "slope_second": -0.001563084340181181,
+        "slope_third": -0.001182326148538697,
+        "slope_whole": 0.009325532566989479,
+        "max_dev": 29,
+        "price_change": -53,
+        "colored_pixels_ratio": 0.0646,
+        "current_price": 38.59999847412109
+    },
+    "SLV_1h_25c_2025-09-17 13-30-00.png": {
+        "slope_first": 0.016136798652566283,
+        "slope_second": -0.007740845056284132,
+        "slope_third": -0.034946385551902076,
+        "slope_whole": 0.007056410749717566,
+        "max_dev": 56,
+        "price_change": -27,
+        "colored_pixels_ratio": 0.0644,
+        "current_price": 38.109901428222656
+    },
+    "SLV_1h_25c_2025-09-17 14-30-00.png": {
+        "slope_first": 0.01513378917240736,
+        "slope_second": -0.011228694663900755,
+        "slope_third": -0.04348649417652815,
+        "slope_whole": 0.004705363083915943,
+        "max_dev": 48,
+        "price_change": -38,
+        "colored_pixels_ratio": 0.0647,
+        "current_price": 38.19369888305664
+    },
+    "SLV_1h_25c_2025-09-17 15-30-00.png": {
+        "slope_first": 0.012028567896885176,
+        "slope_second": -0.01421227701285586,
+        "slope_third": -0.03036516413969175,
+        "slope_whole": 0.0022328158337681725,
+        "max_dev": 49,
+        "price_change": -32,
+        "colored_pixels_ratio": 0.067,
+        "current_price": 38.14500045776367
+    },
+    "SLV_1h_25c_2025-09-17 16-30-00.png": {
+        "slope_first": 0.00865498628650674,
+        "slope_second": -0.016986950053458773,
+        "slope_third": -0.004018166485954684,
+        "slope_whole": -0.00047590048006273286,
+        "max_dev": 50,
+        "price_change": 24,
+        "colored_pixels_ratio": 0.0802,
+        "current_price": 37.972599029541016
+    },
+    "SLV_1h_25c_2025-09-17 17-30-00.png": {
+        "slope_first": 0.009856014549374752,
+        "slope_second": -0.018208561928189246,
+        "slope_third": -0.012214694303624872,
+        "slope_whole": -0.0018260176161049822,
+        "max_dev": 49,
+        "price_change": 33,
+        "colored_pixels_ratio": 0.0785,
+        "current_price": 38.02000045776367
+    },
+    "SLV_1h_25c_2025-09-17 18-30-00.png": {
+        "slope_first": 0.011984566165333645,
+        "slope_second": -0.019070249926142358,
+        "slope_third": -0.027901009952321195,
+        "slope_whole": -0.003569897440793888,
+        "max_dev": 55,
+        "price_change": 29,
+        "colored_pixels_ratio": 0.061,
+        "current_price": 37.81999969482422
+    },
+    "SLV_1h_25c_2025-09-17 19-30-00.png": {
+        "slope_first": 0.012432567326246778,
+        "slope_second": -0.01925556819407447,
+        "slope_third": -0.026974470475140646,
+        "slope_whole": -0.005340881233203952,
+        "max_dev": 50,
+        "price_change": 33,
+        "colored_pixels_ratio": 0.0609,
+        "current_price": 37.810001373291016
+    },
+    "SLV_1h_25c_2025-09-18 13-30-00.png": {
+        "slope_first": 0.01050533482435892,
+        "slope_second": -0.020466572554314635,
+        "slope_third": -0.022361755371093816,
+        "slope_whole": -0.006838804050998493,
+        "max_dev": 46,
+        "price_change": 36,
+        "colored_pixels_ratio": 0.0625,
+        "current_price": 37.79449844360352
+    },
+    "SLV_1h_25c_2025-09-18 14-30-00.png": {
+        "slope_first": 0.008578358772708763,
+        "slope_second": -0.02030359091878936,
+        "slope_third": -0.004689042708453046,
+        "slope_whole": -0.00819932236601349,
+        "max_dev": 43,
+        "price_change": 35,
+        "colored_pixels_ratio": 0.0628,
+        "current_price": 37.77999877929688
+    },
+    "SLV_1h_25c_2025-09-18 15-30-00.png": {
+        "slope_first": 0.006224095045732964,
+        "slope_second": -0.017849359409290954,
+        "slope_third": 0.004655080683090864,
+        "slope_whole": -0.009422500202901033,
+        "max_dev": 42,
+        "price_change": 22,
+        "colored_pixels_ratio": 0.0643,
+        "current_price": 37.92499923706055
+    },
+    "SLV_1h_25c_2025-09-18 16-30-00.png": {
+        "slope_first": 0.0027201020789179528,
+        "slope_second": -0.014191498498813503,
+        "slope_third": 0.010484622506533732,
+        "slope_whole": -0.010459317568719937,
+        "max_dev": 41,
+        "price_change": 21,
+        "colored_pixels_ratio": 0.0642,
+        "current_price": 37.94499969482422
+    },
+    "SLV_1h_25c_2025-09-18 17-30-00.png": {
+        "slope_first": -0.0004259486387328548,
+        "slope_second": -0.008920808496738509,
+        "slope_third": 0.011908166548785128,
+        "slope_whole": -0.011317998209122758,
+        "max_dev": 41,
+        "price_change": 28,
+        "colored_pixels_ratio": 0.0625,
+        "current_price": 37.94850158691406
+    },
+    "SLV_1h_25c_2025-09-18 18-30-00.png": {
+        "slope_first": -0.005015709591942369,
+        "slope_second": -0.0051475687931421136,
+        "slope_third": 0.007263946533202592,
+        "slope_whole": -0.011733182420109817,
+        "max_dev": 42,
+        "price_change": 35,
+        "colored_pixels_ratio": 0.0607,
+        "current_price": 37.96500015258789
+    },
+    "SLV_1h_25c_2025-09-18 19-30-00.png": {
+        "slope_first": -0.009794669821053136,
+        "slope_second": -0.0033378782421170303,
+        "slope_third": 0.002406585917753161,
+        "slope_whole": -0.011636125328231037,
+        "max_dev": 44,
+        "price_change": 45,
+        "colored_pixels_ratio": 0.0578,
+        "current_price": 37.970001220703125
+    },
+    "SLV_1h_25c_2025-09-19 13-30-00.png": {
+        "slope_first": -0.012813883549025159,
+        "slope_second": 0.002987408769660372,
+        "slope_third": 0.030513847575468225,
+        "slope_whole": -0.010387705365995623,
+        "max_dev": 47,
+        "price_change": 9,
+        "colored_pixels_ratio": 0.0607,
+        "current_price": 38.495399475097656
+    },
+    "SLV_1h_25c_2025-09-19 14-30-00.png": {
+        "slope_first": -0.01536640272564096,
+        "slope_second": 0.01118033382786728,
+        "slope_third": 0.059940074471866125,
+        "slope_whole": -0.008411729608324712,
+        "max_dev": 61,
+        "price_change": -3,
+        "colored_pixels_ratio": 0.065,
+        "current_price": 38.77009963989258
+    },
+    "SLV_1h_25c_2025-09-19 15-30-00.png": {
+        "slope_first": -0.017331021275697564,
+        "slope_second": 0.018504234579574032,
+        "slope_third": 0.06432998881620489,
+        "slope_whole": -0.00604685149606262,
+        "max_dev": 53,
+        "price_change": 0,
+        "colored_pixels_ratio": 0.0651,
+        "current_price": 38.744998931884766
+    },
+    "SLV_1h_25c_2025-09-19 16-30-00.png": {
+        "slope_first": -0.01835356585261062,
+        "slope_second": 0.02413492172992232,
+        "slope_third": 0.03059345133164286,
+        "slope_whole": -0.0036487737976679366,
+        "max_dev": 54,
+        "price_change": 14,
+        "colored_pixels_ratio": 0.0654,
+        "current_price": 38.76499938964844
+    },
+    "SLV_1h_25c_2025-09-19 17-30-00.png": {
+        "slope_first": -0.019252940128688605,
+        "slope_second": 0.02685328672484623,
+        "slope_third": 0.017881084890926387,
+        "slope_whole": -0.0005516816101166298,
+        "max_dev": 54,
+        "price_change": -14,
+        "colored_pixels_ratio": 0.0648,
+        "current_price": 39.03499984741211
+    },
+    "SLV_1h_25c_2025-09-19 18-30-00.png": {
+        "slope_first": -0.0197239871900912,
+        "slope_second": 0.0303000998983578,
+        "slope_third": 0.02425416497623218,
+        "slope_whole": 0.00233892841951426,
+        "max_dev": 50,
+        "price_change": -31,
+        "colored_pixels_ratio": 0.0593,
+        "current_price": 39.07500076293945
+    },
+    "SLV_1h_25c_2025-09-19 19-30-00.png": {
+        "slope_first": -0.02072456552200958,
+        "slope_second": 0.031195496448090887,
+        "slope_third": 0.024256307938519718,
+        "slope_whole": 0.004758608108735611,
+        "max_dev": 49,
+        "price_change": -22,
+        "colored_pixels_ratio": 0.0576,
+        "current_price": 39.02999877929688
+    },
+    "SLV_1h_25c_2025-09-22 13-30-00.png": {
+        "slope_first": -0.01922763087168478,
+        "slope_second": 0.03486068927082555,
+        "slope_third": 0.04395548315609176,
+        "slope_whole": 0.008433834228149332,
+        "max_dev": 40,
+        "price_change": -43,
+        "colored_pixels_ratio": 0.0476,
+        "current_price": 39.6150016784668
+    },
+    "SLV_1h_25c_2025-09-22 14-30-00.png": {
+        "slope_first": -0.01624275491446526,
+        "slope_second": 0.03829065732738411,
+        "slope_third": 0.056011665568632026,
+        "slope_whole": 0.012192273304478946,
+        "max_dev": 36,
+        "price_change": -50,
+        "colored_pixels_ratio": 0.047,
+        "current_price": 39.78499984741211
+    },
+    "SLV_1h_25c_2025-09-22 15-30-00.png": {
+        "slope_first": -0.011720786214876428,
+        "slope_second": 0.04057368650585239,
+        "slope_third": 0.059663413552676625,
+        "slope_whole": 0.016090978513134433,
+        "max_dev": 40,
+        "price_change": -48,
+        "colored_pixels_ratio": 0.0454,
+        "current_price": 39.8650016784668
+    },
+    "SLV_1h_25c_2025-09-22 16-30-00.png": {
+        "slope_first": -0.005874272011050582,
+        "slope_second": 0.04056296450464971,
+        "slope_third": 0.029122010399313593,
+        "slope_whole": 0.019939971612517694,
+        "max_dev": 27,
+        "price_change": -73,
+        "colored_pixels_ratio": 0.0451,
+        "current_price": 39.92010116577149
+    },
+    "SLV_1h_25c_2025-09-22 17-30-00.png": {
+        "slope_first": -0.004444872431394441,
+        "slope_second": 0.03845479317215166,
+        "slope_third": 0.021250309663660455,
+        "slope_whole": 0.022390316225836506,
+        "max_dev": 29,
+        "price_change": -70,
+        "colored_pixels_ratio": 0.0429,
+        "current_price": 39.98540115356445
+    },
+    "SLV_1h_25c_2025-09-22 18-30-00.png": {
+        "slope_first": -0.00015412274528895216,
+        "slope_second": 0.035676729309887904,
+        "slope_third": 0.01458116980159968,
+        "slope_whole": 0.024751173809702744,
+        "max_dev": 30,
+        "price_change": -67,
+        "colored_pixels_ratio": 0.0415,
+        "current_price": 40.005001068115234
+    },
+    "SLV_1h_25c_2025-09-22 19-30-00.png": {
+        "slope_first": 0.0072448580262183745,
+        "slope_second": 0.03379417337003153,
+        "slope_third": 0.010727792627670677,
+        "slope_whole": 0.026833409865339677,
+        "max_dev": 31,
+        "price_change": -68,
+        "colored_pixels_ratio": 0.0412,
+        "current_price": 40.02000045776367
+    },
+    "SLV_1h_25c_2025-09-23 13-30-00.png": {
+        "slope_first": 0.01461388944005347,
+        "slope_second": 0.03342389897853666,
+        "slope_third": 0.016345916074865283,
+        "slope_whole": 0.02866136875375776,
+        "max_dev": 32,
+        "price_change": -70,
+        "colored_pixels_ratio": 0.0387,
+        "current_price": 40.095001220703125
+    },
+    "SLV_1h_25c_2025-09-23 14-30-00.png": {
+        "slope_first": 0.021219796939771447,
+        "slope_second": 0.030763532402707155,
+        "slope_third": 0.01484605003805729,
+        "slope_whole": 0.03002141179388933,
+        "max_dev": 23,
+        "price_change": -72,
+        "colored_pixels_ratio": 0.038,
+        "current_price": 40.209999084472656
+    },
+    "SLV_1h_25c_2025-09-23 15-30-00.png": {
+        "slope_first": 0.025178493760785584,
+        "slope_second": 0.02680900472982167,
+        "slope_third": 0.008679384343763544,
+        "slope_whole": 0.030443623357086787,
+        "max_dev": 17,
+        "price_change": -84,
+        "colored_pixels_ratio": 0.0372,
+        "current_price": 40.14550018310547
+    },
+    "SLV_1h_25c_2025-09-23 16-30-00.png": {
+        "slope_first": 0.02856816762349474,
+        "slope_second": 0.02225460533334436,
+        "slope_third": -0.004656163383933075,
+        "slope_whole": 0.030265434532955104,
+        "max_dev": 19,
+        "price_change": -85,
+        "colored_pixels_ratio": 0.038,
+        "current_price": 40.21500015258789
+    },
+    "SLV_1h_25c_2025-09-23 17-30-00.png": {
+        "slope_first": 0.030833429746409773,
+        "slope_second": 0.01670536860984621,
+        "slope_third": -0.0017373646006869081,
+        "slope_whole": 0.029662261285332853,
+        "max_dev": 20,
+        "price_change": -88,
+        "colored_pixels_ratio": 0.0392,
+        "current_price": 40.125
+    },
+    "SLV_1h_25c_2025-09-23 18-30-00.png": {
+        "slope_first": 0.033282913079782844,
+        "slope_second": 0.010077728051669978,
+        "slope_third": -0.016860249463250158,
+        "slope_whole": 0.02819685255268681,
+        "max_dev": 32,
+        "price_change": -79,
+        "colored_pixels_ratio": 0.043,
+        "current_price": 39.84000015258789
+    },
+    "SLV_1h_25c_2025-09-23 19-30-00.png": {
+        "slope_first": 0.036777476554586845,
+        "slope_second": 0.005057610629701182,
+        "slope_third": -0.024051189422608185,
+        "slope_whole": 0.02630654528160331,
+        "max_dev": 31,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0446,
+        "current_price": 39.95000076293945
+    },
+    "SLV_1h_25c_2025-09-24 13-30-00.png": {
+        "slope_first": 0.039721250499712014,
+        "slope_second": 0.002369296473472133,
+        "slope_third": -0.013059055103975517,
+        "slope_whole": 0.02450831651616079,
+        "max_dev": 29,
+        "price_change": -83,
+        "colored_pixels_ratio": 0.0455,
+        "current_price": 40.010101318359375
+    },
+    "SLV_1h_25c_2025-09-24 14-30-00.png": {
+        "slope_first": 0.04097203761875823,
+        "slope_second": -0.0001032149920514506,
+        "slope_third": 0.00047162560855588205,
+        "slope_whole": 0.022203982422168,
+        "max_dev": 29,
+        "price_change": -82,
+        "colored_pixels_ratio": 0.047,
+        "current_price": 39.97999954223633
+    },
+    "SLV_1h_25c_2025-09-24 15-30-00.png": {
+        "slope_first": 0.03982061452510694,
+        "slope_second": -0.003256175944498884,
+        "slope_third": -0.0057819310356590015,
+        "slope_whole": 0.01929081902788664,
+        "max_dev": 32,
+        "price_change": -75,
+        "colored_pixels_ratio": 0.0492,
+        "current_price": 39.809600830078125
+    },
+    "SLV_1h_25c_2025-09-24 16-30-00.png": {
+        "slope_first": 0.03642050423685117,
+        "slope_second": -0.00603345653446932,
+        "slope_third": -0.021041039859548152,
+        "slope_whole": 0.015896315392952977,
+        "max_dev": 32,
+        "price_change": -72,
+        "colored_pixels_ratio": 0.0551,
+        "current_price": 39.84370040893555
+    },
+    "SLV_1h_25c_2025-09-24 17-30-00.png": {
+        "slope_first": 0.03427511666287619,
+        "slope_second": -0.00876224788010918,
+        "slope_third": -0.01875810623169011,
+        "slope_whole": 0.013045609912248415,
+        "max_dev": 36,
+        "price_change": -66,
+        "colored_pixels_ratio": 0.0612,
+        "current_price": 39.744998931884766
+    },
+    "SLV_1h_25c_2025-09-24 18-30-00.png": {
+        "slope_first": 0.03409307033360219,
+        "slope_second": -0.010082379326242214,
+        "slope_third": -0.015947330699247877,
+        "slope_whole": 0.010479747887813593,
+        "max_dev": 38,
+        "price_change": -52,
+        "colored_pixels_ratio": 0.0638,
+        "current_price": 39.65354537963867
+    },
+    "SLV_1h_25c_2025-09-24 19-30-00.png": {
+        "slope_first": 0.032348953741652926,
+        "slope_second": -0.010776340809761456,
+        "slope_third": -0.008245642044965548,
+        "slope_whole": 0.00808803271074163,
+        "max_dev": 41,
+        "price_change": -64,
+        "colored_pixels_ratio": 0.0664,
+        "current_price": 39.810001373291016
+    },
+    "SLV_1h_25c_2025-09-25 13-30-00.png": {
+        "slope_first": 0.028930940479219062,
+        "slope_second": -0.004642874544837428,
+        "slope_third": 0.04134347579058456,
+        "slope_whole": 0.006912990630727952,
+        "max_dev": 44,
+        "price_change": -94,
+        "colored_pixels_ratio": 0.0655,
+        "current_price": 40.422698974609375
+    },
+    "SLV_1h_25c_2025-09-25 14-30-00.png": {
+        "slope_first": 0.02452979317947883,
+        "slope_second": 0.0023335007831257384,
+        "slope_third": 0.07230925279505081,
+        "slope_whole": 0.0061581727859675115,
+        "max_dev": 38,
+        "price_change": -89,
+        "colored_pixels_ratio": 0.0644,
+        "current_price": 40.61000061035156
+    },
+    "SLV_1h_25c_2025-09-25 15-30-00.png": {
+        "slope_first": 0.019911990491997864,
+        "slope_second": 0.009487177561454155,
+        "slope_third": 0.06483420764698676,
+        "slope_whole": 0.005672091630854866,
+        "max_dev": 41,
+        "price_change": -88,
+        "colored_pixels_ratio": 0.0642,
+        "current_price": 40.6348991394043
+    },
+    "SLV_1h_25c_2025-09-25 16-30-00.png": {
+        "slope_first": 0.012976310519325162,
+        "slope_second": 0.01612344437286633,
+        "slope_third": 0.023032889646642456,
+        "slope_whole": 0.004995611987956683,
+        "max_dev": 38,
+        "price_change": -83,
+        "colored_pixels_ratio": 0.0789,
+        "current_price": 40.6968002319336
+    },
+    "SLV_1h_25c_2025-09-25 17-30-00.png": {
+        "slope_first": 0.007141380172674347,
+        "slope_second": 0.019349946277339047,
+        "slope_third": 0.013124387404498082,
+        "slope_whole": 0.0052380919320568235,
+        "max_dev": 48,
+        "price_change": -91,
+        "colored_pixels_ratio": 0.0878,
+        "current_price": 40.73500061035156
+    },
+    "SLV_1h_25c_2025-09-25 18-30-00.png": {
+        "slope_first": 0.0038482660520260266,
+        "slope_second": 0.02439371610460599,
+        "slope_third": 0.018588812210979935,
+        "slope_whole": 0.006067418105030563,
+        "max_dev": 45,
+        "price_change": -86,
+        "colored_pixels_ratio": 0.0794,
+        "current_price": 40.97999954223633
+    },
+    "SLV_1h_25c_2025-09-25 19-30-00.png": {
+        "slope_first": 0.0012394029266976606,
+        "slope_second": 0.029179005708728903,
+        "slope_third": 0.027603429906508447,
+        "slope_whole": 0.00733278823335208,
+        "max_dev": 47,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0753,
+        "current_price": 41.02000045776367
+    },
+    "SLV_1h_25c_2025-09-26 13-30-00.png": {
+        "slope_first": -0.0014463027642695205,
+        "slope_second": 0.03471335970911805,
+        "slope_third": 0.04819654015933755,
+        "slope_whole": 0.009230915324808716,
+        "max_dev": 43,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0628,
+        "current_price": 41.43989944458008
+    },
+    "SLV_1h_25c_2025-09-26 14-30-00.png": {
+        "slope_first": -0.004633329650219173,
+        "slope_second": 0.03868710393092789,
+        "slope_third": 0.05632490270278039,
+        "slope_whole": 0.01156387926542893,
+        "max_dev": 40,
+        "price_change": -83,
+        "colored_pixels_ratio": 0.062,
+        "current_price": 41.650001525878906
+    },
+    "SLV_1h_25c_2025-09-26 15-30-00.png": {
+        "slope_first": -0.007219941504434053,
+        "slope_second": 0.041996813495906206,
+        "slope_third": 0.060169719247256954,
+        "slope_whole": 0.014212084866628689,
+        "max_dev": 38,
+        "price_change": -82,
+        "colored_pixels_ratio": 0.0583,
+        "current_price": 41.86589813232422
+    },
+    "SLV_1h_25c_2025-09-26 16-30-00.png": {
+        "slope_first": -0.010000915893701182,
+        "slope_second": 0.043662439279911175,
+        "slope_third": 0.05632566564223291,
+        "slope_whole": 0.017129893264290017,
+        "max_dev": 36,
+        "price_change": -72,
+        "colored_pixels_ratio": 0.0557,
+        "current_price": 42.13990020751953
+    },
+    "SLV_1h_25c_2025-09-26 17-30-00.png": {
+        "slope_first": -0.010699091220961212,
+        "slope_second": 0.043136529453089774,
+        "slope_third": 0.054485304215375015,
+        "slope_whole": 0.02058026546978424,
+        "max_dev": 33,
+        "price_change": -78,
+        "colored_pixels_ratio": 0.0517,
+        "current_price": 42.205299377441406
+    },
+    "SLV_1h_25c_2025-09-26 18-30-00.png": {
+        "slope_first": -0.007390980073670044,
+        "slope_second": 0.041618848528180895,
+        "slope_third": 0.02565119126263796,
+        "slope_whole": 0.023230118658533323,
+        "max_dev": 32,
+        "price_change": -62,
+        "colored_pixels_ratio": 0.0537,
+        "current_price": 41.90999984741211
+    },
+    "SLV_1h_25c_2025-09-26 19-30-00.png": {
+        "slope_first": -0.001058172292354326,
+        "slope_second": 0.03877742094152112,
+        "slope_third": -0.014047370237463344,
+        "slope_whole": 0.02511105543995557,
+        "max_dev": 31,
+        "price_change": -63,
+        "colored_pixels_ratio": 0.0536,
+        "current_price": 41.84999847412109
+    },
+    "SLV_1h_25c_2025-09-29 13-30-00.png": {
+        "slope_first": 0.0058536873001153004,
+        "slope_second": 0.04022932201445036,
+        "slope_third": 0.00985389036290797,
+        "slope_whole": 0.027922246150701352,
+        "max_dev": 29,
+        "price_change": -79,
+        "colored_pixels_ratio": 0.0503,
+        "current_price": 42.54999923706055
+    },
+    "SLV_1h_25c_2025-09-29 14-30-00.png": {
+        "slope_first": 0.012881599783467793,
+        "slope_second": 0.041136726480142764,
+        "slope_third": 0.04917747273164622,
+        "slope_whole": 0.03069817321850579,
+        "max_dev": 25,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0479,
+        "current_price": 42.63999938964844
+    },
+    "SLV_1h_25c_2025-09-29 15-30-00.png": {
+        "slope_first": 0.017768872136256574,
+        "slope_second": 0.03984987586343126,
+        "slope_third": 0.05781687007230923,
+        "slope_whole": 0.03264746264512915,
+        "max_dev": 21,
+        "price_change": -90,
+        "colored_pixels_ratio": 0.0457,
+        "current_price": 42.67499923706055
+    },
+    "SLV_1h_25c_2025-09-29 16-30-00.png": {
+        "slope_first": 0.02150964908668569,
+        "slope_second": 0.0356889183896214,
+        "slope_third": 0.008685510298784732,
+        "slope_whole": 0.033722048375186574,
+        "max_dev": 23,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0466,
+        "current_price": 42.45650100708008
+    },
+    "SLV_1h_25c_2025-09-29 17-30-00.png": {
+        "slope_first": 0.026805350497132226,
+        "slope_second": 0.029866391258651932,
+        "slope_third": -0.010737037658692203,
+        "slope_whole": 0.03446860923732748,
+        "max_dev": 18,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.046,
+        "current_price": 42.54499816894531
+    },
+    "SLV_1h_25c_2025-09-29 18-30-00.png": {
+        "slope_first": 0.032268388617654326,
+        "slope_second": 0.024013905427893906,
+        "slope_third": -0.014383259941550429,
+        "slope_whole": 0.03457985686569144,
+        "max_dev": 17,
+        "price_change": -78,
+        "colored_pixels_ratio": 0.046,
+        "current_price": 42.459999084472656
+    },
+    "SLV_1h_25c_2025-09-29 19-30-00.png": {
+        "slope_first": 0.03684818867732624,
+        "slope_second": 0.018486532552474105,
+        "slope_third": -0.007976515152876004,
+        "slope_whole": 0.03393297231487056,
+        "max_dev": 18,
+        "price_change": -86,
+        "colored_pixels_ratio": 0.0447,
+        "current_price": 42.5
+    },
+    "SLV_1h_25c_2025-09-30 13-30-00.png": {
+        "slope_first": 0.04058086967697206,
+        "slope_second": 0.009718907460445092,
+        "slope_third": -0.033566177592558505,
+        "slope_whole": 0.0315591785924197,
+        "max_dev": 40,
+        "price_change": -76,
+        "colored_pixels_ratio": 0.0487,
+        "current_price": 42.23500061035156
+    },
+    "SLV_1h_25c_2025-09-30 14-30-00.png": {
+        "slope_first": 0.04312008769572314,
+        "slope_second": 0.003941143168693371,
+        "slope_third": -0.03627052307128945,
+        "slope_whole": 0.0289617736340282,
+        "max_dev": 36,
+        "price_change": -71,
+        "colored_pixels_ratio": 0.0507,
+        "current_price": 41.970001220703125
+    },
+    "SLV_1h_25c_2025-09-30 15-30-00.png": {
+        "slope_first": 0.04379726469445197,
+        "slope_second": -0.0004695475602350072,
+        "slope_third": -0.02627215104944581,
+        "slope_whole": 0.02554846179045374,
+        "max_dev": 32,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0527,
+        "current_price": 42.19940185546875
+    },
+    "SLV_1h_25c_2025-09-30 16-30-00.png": {
+        "slope_first": 0.04175274595922329,
+        "slope_second": -0.0030130732102411823,
+        "slope_third": 0.009001159667968465,
+        "slope_whole": 0.022017504133836244,
+        "max_dev": 32,
+        "price_change": -65,
+        "colored_pixels_ratio": 0.0603,
+        "current_price": 42.165000915527344
+    },
+    "SLV_1h_25c_2025-09-30 17-30-00.png": {
+        "slope_first": 0.0400092252477162,
+        "slope_second": -0.008712618531299343,
+        "slope_third": 0.00023876077988554864,
+        "slope_whole": 0.019524245126233748,
+        "max_dev": 33,
+        "price_change": -72,
+        "colored_pixels_ratio": 0.064,
+        "current_price": 42.16469955444336
+    },
+    "SLV_1h_25c_2025-09-30 18-30-00.png": {
+        "slope_first": 0.039828465565913664,
+        "slope_second": -0.011745793776494842,
+        "slope_third": 0.009789248073801613,
+        "slope_whole": 0.01723438298419672,
+        "max_dev": 36,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0669,
+        "current_price": 42.275001525878906
+    },
+    "SLV_1h_25c_2025-09-30 19-30-00.png": {
+        "slope_first": 0.04098358337475595,
+        "slope_second": -0.01026779119851073,
+        "slope_third": 0.011515101264504625,
+        "slope_whole": 0.015068646604650661,
+        "max_dev": 37,
+        "price_change": -79,
+        "colored_pixels_ratio": 0.0686,
+        "current_price": 42.36000061035156
+    },
+    "SLV_1h_25c_2025-10-01 13-30-00.png": {
+        "slope_first": 0.04096643161659196,
+        "slope_second": 0.0003057049846306903,
+        "slope_third": 0.07534546571619373,
+        "slope_whole": 0.014696312580171523,
+        "max_dev": 28,
+        "price_change": -94,
+        "colored_pixels_ratio": 0.0573,
+        "current_price": 43.310001373291016
+    },
+    "SLV_1h_25c_2025-10-01 14-30-00.png": {
+        "slope_first": 0.03818972455925739,
+        "slope_second": 0.009701767792077723,
+        "slope_third": 0.08278117460363063,
+        "slope_whole": 0.013760658742571031,
+        "max_dev": 29,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0628,
+        "current_price": 42.92499923706055
+    },
+    "SLV_1h_25c_2025-10-01 15-30-00.png": {
+        "slope_first": 0.03274756331976202,
+        "slope_second": 0.015944772928702663,
+        "slope_third": 0.047741171892951004,
+        "slope_whole": 0.012569613109076923,
+        "max_dev": 29,
+        "price_change": -87,
+        "colored_pixels_ratio": 0.0676,
+        "current_price": 43.14120101928711
+    },
+    "SLV_1h_25c_2025-10-01 16-30-00.png": {
+        "slope_first": 0.026594262644022086,
+        "slope_second": 0.022710191742712646,
+        "slope_third": -0.0052357337054088765,
+        "slope_whole": 0.011587631152336299,
+        "max_dev": 31,
+        "price_change": -83,
+        "colored_pixels_ratio": 0.0712,
+        "current_price": 43.15190124511719
+    },
+    "SLV_1h_25c_2025-10-01 17-30-00.png": {
+        "slope_first": 0.020867151853417535,
+        "slope_second": 0.027286795699725207,
+        "slope_third": -0.0039778709411623855,
+        "slope_whole": 0.010788234318121747,
+        "max_dev": 37,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0795,
+        "current_price": 43.05989837646485
+    },
+    "SLV_1h_25c_2025-10-01 18-30-00.png": {
+        "slope_first": 0.013841569769998351,
+        "slope_second": 0.028816865735552144,
+        "slope_third": -0.0007057638729326788,
+        "slope_whole": 0.010164447925200156,
+        "max_dev": 43,
+        "price_change": -78,
+        "colored_pixels_ratio": 0.0879,
+        "current_price": 43.02980041503906
+    },
+    "SLV_1h_25c_2025-10-01 19-30-00.png": {
+        "slope_first": 0.007237827992524869,
+        "slope_second": 0.027065616896172612,
+        "slope_third": -0.01531376558191673,
+        "slope_whole": 0.009605746722743532,
+        "max_dev": 45,
+        "price_change": -60,
+        "colored_pixels_ratio": 0.0876,
+        "current_price": 42.900001525878906
+    },
+    "SLV_1h_25c_2025-10-02 13-30-00.png": {
+        "slope_first": 0.0012580349522623862,
+        "slope_second": 0.02360491199653694,
+        "slope_third": -0.00917637768913782,
+        "slope_whole": 0.009664080047836286,
+        "max_dev": 41,
+        "price_change": -26,
+        "colored_pixels_ratio": 0.0916,
+        "current_price": 42.630001068115234
+    },
+    "SLV_1h_25c_2025-10-02 14-30-00.png": {
+        "slope_first": -0.0017790705759843386,
+        "slope_second": 0.012145718761137271,
+        "slope_third": -0.06658597272985166,
+        "slope_whole": 0.008053786755323365,
+        "max_dev": 66,
+        "price_change": 13,
+        "colored_pixels_ratio": 0.1003,
+        "current_price": 41.95500183105469
+    },
+    "SLV_1h_25c_2025-10-02 15-30-00.png": {
+        "slope_first": -0.00564754747113659,
+        "slope_second": -0.0015223125993559376,
+        "slope_third": -0.10460734647863076,
+        "slope_whole": 0.005425106498381632,
+        "max_dev": 59,
+        "price_change": -5,
+        "colored_pixels_ratio": 0.0984,
+        "current_price": 42.02009963989258
+    },
+    "SLV_1h_25c_2025-10-02 16-30-00.png": {
+        "slope_first": -0.011794768444487447,
+        "slope_second": -0.013217633305763764,
+        "slope_third": -0.08543818978702368,
+        "slope_whole": 0.0027686650882495427,
+        "max_dev": 52,
+        "price_change": 12,
+        "colored_pixels_ratio": 0.1005,
+        "current_price": 42.220001220703125
+    },
+    "SLV_1h_25c_2025-10-02 17-30-00.png": {
+        "slope_first": -0.011693468036628588,
+        "slope_second": -0.02209761565759102,
+        "slope_third": 0.006257219875560041,
+        "slope_whole": 0.0019356858018564178,
+        "max_dev": 51,
+        "price_change": 6,
+        "colored_pixels_ratio": 0.1012,
+        "current_price": 42.42499923706055
+    },
+    "SLV_1h_25c_2025-10-02 18-30-00.png": {
+        "slope_first": -0.005086868670808623,
+        "slope_second": -0.024347533446972512,
+        "slope_third": 0.04705140730913925,
+        "slope_whole": 0.0020109502023811484,
+        "max_dev": 51,
+        "price_change": 3,
+        "colored_pixels_ratio": 0.1016,
+        "current_price": 42.59000015258789
+    },
+    "SLV_1h_25c_2025-10-02 19-30-00.png": {
+        "slope_first": 0.0059523374779602125,
+        "slope_second": -0.02056957835624484,
+        "slope_third": 0.036698436737060344,
+        "slope_whole": 0.0022938280995456425,
+        "max_dev": 52,
+        "price_change": 8,
+        "colored_pixels_ratio": 0.1013,
+        "current_price": 42.51969909667969
+    },
+    "SLV_1h_25c_2025-10-03 13-30-00.png": {
+        "slope_first": 0.012818631175614888,
+        "slope_second": -0.012177281740332712,
+        "slope_third": 0.06981643227969898,
+        "slope_whole": 0.004105111484659069,
+        "max_dev": 53,
+        "price_change": -45,
+        "colored_pixels_ratio": 0.0996,
+        "current_price": 43.334999084472656
+    },
+    "SLV_1h_25c_2025-10-03 14-30-00.png": {
+        "slope_first": 0.019362029296582307,
+        "slope_second": -0.0001875766786206823,
+        "slope_third": 0.0948021496043483,
+        "slope_whole": 0.006313224172148667,
+        "max_dev": 50,
+        "price_change": -59,
+        "colored_pixels_ratio": 0.093,
+        "current_price": 43.86000061035156
+    },
+    "SLV_1h_25c_2025-10-03 15-30-00.png": {
+        "slope_first": 0.025454196998623963,
+        "slope_second": 0.013149061626603883,
+        "slope_third": 0.09257419810575597,
+        "slope_whole": 0.008697802374536785,
+        "max_dev": 52,
+        "price_change": -52,
+        "colored_pixels_ratio": 0.0927,
+        "current_price": 43.666500091552734
+    },
+    "SLV_1h_25c_2025-10-03 16-30-00.png": {
+        "slope_first": 0.02934990268079892,
+        "slope_second": 0.02245410273484392,
+        "slope_third": 0.023176799100987227,
+        "slope_whole": 0.01035754684782451,
+        "max_dev": 53,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0941,
+        "current_price": 43.5099983215332
+    },
+    "SLV_1h_25c_2025-10-03 17-30-00.png": {
+        "slope_first": 0.02749994742770123,
+        "slope_second": 0.03022947954816694,
+        "slope_third": -0.013227255204145062,
+        "slope_whole": 0.010440098086957098,
+        "max_dev": 54,
+        "price_change": -57,
+        "colored_pixels_ratio": 0.089,
+        "current_price": 43.56499862670898
+    },
+    "SLV_1h_25c_2025-10-03 18-30-00.png": {
+        "slope_first": 0.027630099403042604,
+        "slope_second": 0.040279487710611545,
+        "slope_third": -0.01716453888837073,
+        "slope_whole": 0.01084457866715618,
+        "max_dev": 55,
+        "price_change": -71,
+        "colored_pixels_ratio": 0.0853,
+        "current_price": 43.60499954223633
+    },
+    "SLV_1h_25c_2025-10-03 19-30-00.png": {
+        "slope_first": 0.019496120347553113,
+        "slope_second": 0.04323438133798449,
+        "slope_third": 0.0009781052084529556,
+        "slope_whole": 0.010705729683991529,
+        "max_dev": 55,
+        "price_change": -58,
+        "colored_pixels_ratio": 0.0833,
+        "current_price": 43.54999923706055
+    },
+    "SLV_1h_25c_2025-10-06 13-30-00.png": {
+        "slope_first": 0.005560257855583625,
+        "slope_second": 0.04160611156083525,
+        "slope_third": 0.03828610251931541,
+        "slope_whole": 0.011645245922602568,
+        "max_dev": 51,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0759,
+        "current_price": 44.07500076293945
+    },
+    "SLV_1h_25c_2025-10-06 14-30-00.png": {
+        "slope_first": -0.007551019675448181,
+        "slope_second": 0.038090392223784124,
+        "slope_third": 0.04723621817196104,
+        "slope_whole": 0.012309469067939541,
+        "max_dev": 51,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0742,
+        "current_price": 44.10499954223633
+    },
+    "SLV_1h_25c_2025-10-06 15-30-00.png": {
+        "slope_first": -0.01787875153723613,
+        "slope_second": 0.03328461481027975,
+        "slope_third": 0.036574172973631885,
+        "slope_whole": 0.01269302345273597,
+        "max_dev": 52,
+        "price_change": -70,
+        "colored_pixels_ratio": 0.0744,
+        "current_price": 44.119998931884766
+    },
+    "SLV_1h_25c_2025-10-06 16-30-00.png": {
+        "slope_first": -0.025306168243664634,
+        "slope_second": 0.02799289607200293,
+        "slope_third": 0.0036743949441344556,
+        "slope_whole": 0.013065746661030648,
+        "max_dev": 53,
+        "price_change": -42,
+        "colored_pixels_ratio": 0.0743,
+        "current_price": 44.130001068115234
+    },
+    "SLV_1h_25c_2025-10-06 17-30-00.png": {
+        "slope_first": -0.022883426991402202,
+        "slope_second": 0.021708149263123214,
+        "slope_third": 0.0015395613277659475,
+        "slope_whole": 0.015239576722564867,
+        "max_dev": 51,
+        "price_change": -34,
+        "colored_pixels_ratio": 0.0721,
+        "current_price": 44.185001373291016
+    },
+    "SLV_1h_25c_2025-10-06 18-30-00.png": {
+        "slope_first": -0.016186031053046467,
+        "slope_second": 0.01718000853906024,
+        "slope_third": 0.004659720028148166,
+        "slope_whole": 0.017185391352550823,
+        "max_dev": 49,
+        "price_change": -47,
+        "colored_pixels_ratio": 0.0681,
+        "current_price": 44.13990020751953
+    },
+    "SLV_1h_25c_2025-10-06 19-30-00.png": {
+        "slope_first": -0.006414045171291154,
+        "slope_second": 0.014913525346662281,
+        "slope_third": -0.002192132613238402,
+        "slope_whole": 0.018525247536655395,
+        "max_dev": 47,
+        "price_change": -35,
+        "colored_pixels_ratio": 0.0662,
+        "current_price": 44.060001373291016
+    },
+    "SLV_1h_25c_2025-10-07 13-30-00.png": {
+        "slope_first": 0.007100211300340346,
+        "slope_second": 0.012586083383548819,
+        "slope_third": -0.02771965475643454,
+        "slope_whole": 0.01927409412694206,
+        "max_dev": 44,
+        "price_change": -21,
+        "colored_pixels_ratio": 0.0694,
+        "current_price": 43.69969940185547
+    },
+    "SLV_1h_25c_2025-10-07 14-30-00.png": {
+        "slope_first": 0.018044845013200358,
+        "slope_second": 0.008172187209844878,
+        "slope_third": -0.04489951975205431,
+        "slope_whole": 0.019410314597133323,
+        "max_dev": 42,
+        "price_change": -23,
+        "colored_pixels_ratio": 0.069,
+        "current_price": 43.6593017578125
+    },
+    "SLV_1h_25c_2025-10-07 15-30-00.png": {
+        "slope_first": 0.026643647998750575,
+        "slope_second": -0.0007932767833694533,
+        "slope_third": -0.06313745835248206,
+        "slope_whole": 0.018604311137595562,
+        "max_dev": 51,
+        "price_change": -3,
+        "colored_pixels_ratio": 0.0751,
+        "current_price": 43.10499954223633
+    },
+    "SLV_1h_25c_2025-10-07 16-30-00.png": {
+        "slope_first": 0.03376033549406095,
+        "slope_second": -0.01041546898300328,
+        "slope_third": -0.05520051507388933,
+        "slope_whole": 0.017245672931550833,
+        "max_dev": 46,
+        "price_change": 10,
+        "colored_pixels_ratio": 0.0759,
+        "current_price": 43.29499816894531
+    },
+    "SLV_1h_25c_2025-10-07 17-30-00.png": {
+        "slope_first": 0.042036408496504064,
+        "slope_second": -0.018337523058539796,
+        "slope_third": -0.036932687198414554,
+        "slope_whole": 0.01624697859495422,
+        "max_dev": 42,
+        "price_change": -21,
+        "colored_pixels_ratio": 0.067,
+        "current_price": 43.20000076293945
+    },
+    "SLV_1h_25c_2025-10-07 18-30-00.png": {
+        "slope_first": 0.04266574671860931,
+        "slope_second": -0.023432011049048487,
+        "slope_third": -0.007205929475672639,
+        "slope_whole": 0.013132655008970201,
+        "max_dev": 44,
+        "price_change": -52,
+        "colored_pixels_ratio": 0.0597,
+        "current_price": 43.33649826049805
+    },
+    "SLV_1h_25c_2025-10-07 19-30-00.png": {
+        "slope_first": 0.039768081976442854,
+        "slope_second": -0.02435922886000106,
+        "slope_third": 0.009153932683607504,
+        "slope_whole": 0.009184569167976546,
+        "max_dev": 48,
+        "price_change": -58,
+        "colored_pixels_ratio": 0.0639,
+        "current_price": 43.38999938964844
+    },
+    "SLV_1h_25c_2025-10-08 13-30-00.png": {
+        "slope_first": 0.035878380160658224,
+        "slope_second": -0.01369362491090181,
+        "slope_third": 0.08634572870591145,
+        "slope_whole": 0.008031845207225791,
+        "max_dev": 43,
+        "price_change": -95,
+        "colored_pixels_ratio": 0.0609,
+        "current_price": 44.56999969482422
+    },
+    "SLV_1h_25c_2025-10-08 14-30-00.png": {
+        "slope_first": 0.030601053776002564,
+        "slope_second": -0.0020752216902385733,
+        "slope_third": 0.12681697957655932,
+        "slope_whole": 0.007418604455049979,
+        "max_dev": 37,
+        "price_change": -94,
+        "colored_pixels_ratio": 0.0608,
+        "current_price": 44.77999877929688
+    },
+    "SLV_1h_25c_2025-10-08 15-30-00.png": {
+        "slope_first": 0.02502916425359174,
+        "slope_second": 0.010740783434956018,
+        "slope_third": 0.11403682933134174,
+        "slope_whole": 0.007281274323416284,
+        "max_dev": 39,
+        "price_change": -92,
+        "colored_pixels_ratio": 0.0603,
+        "current_price": 44.93000030517578
+    },
+    "SLV_1h_25c_2025-10-08 16-30-00.png": {
+        "slope_first": 0.017782767892313048,
+        "slope_second": 0.022720305040961605,
+        "slope_third": 0.03286769530352419,
+        "slope_whole": 0.006791278233658245,
+        "max_dev": 50,
+        "price_change": -74,
+        "colored_pixels_ratio": 0.0719,
+        "current_price": 44.8650016784668
+    },
+    "SLV_1h_25c_2025-10-08 17-30-00.png": {
+        "slope_first": 0.01541422410028457,
+        "slope_second": 0.032710798247521516,
+        "slope_third": 0.0069396187277396115,
+        "slope_whole": 0.00751745229149375,
+        "max_dev": 52,
+        "price_change": -69,
+        "colored_pixels_ratio": 0.0725,
+        "current_price": 44.76559829711914
+    },
+    "SLV_1h_25c_2025-10-08 18-30-00.png": {
+        "slope_first": 0.013820268647009177,
+        "slope_second": 0.03952888662789327,
+        "slope_third": -0.016616176156437165,
+        "slope_whole": 0.008471862971514343,
+        "max_dev": 53,
+        "price_change": -41,
+        "colored_pixels_ratio": 0.0671,
+        "current_price": 44.70500183105469
+    },
+    "SLV_1h_25c_2025-10-08 19-30-00.png": {
+        "slope_first": 0.01073976880791343,
+        "slope_second": 0.0412429195921534,
+        "slope_third": -0.02409614114200376,
+        "slope_whole": 0.009489856174032849,
+        "max_dev": 53,
+        "price_change": -42,
+        "colored_pixels_ratio": 0.0664,
+        "current_price": 44.54999923706055
+    },
+    "SLV_1h_25c_2025-10-09 13-30-00.png": {
+        "slope_first": 0.005019342575897406,
+        "slope_second": 0.05118964223873145,
+        "slope_third": 0.06092386806712447,
+        "slope_whole": 0.012580182853490626,
+        "max_dev": 49,
+        "price_change": -54,
+        "colored_pixels_ratio": 0.0499,
+        "current_price": 45.375
+    },
+    "SLV_1h_25c_2025-10-09 14-30-00.png": {
+        "slope_first": -0.0059846780509076455,
+        "slope_second": 0.04772668643873567,
+        "slope_third": 0.0559734120088465,
+        "slope_whole": 0.01373268777530811,
+        "max_dev": 47,
+        "price_change": -39,
+        "colored_pixels_ratio": 0.0544,
+        "current_price": 44.8849983215332
+    },
+    "SLV_1h_25c_2025-10-09 15-30-00.png": {
+        "slope_first": -0.013975967095822753,
+        "slope_second": 0.0377751515034725,
+        "slope_third": -0.02114347009097928,
+        "slope_whole": 0.013537433279765872,
+        "max_dev": 48,
+        "price_change": -23,
+        "colored_pixels_ratio": 0.0583,
+        "current_price": 44.41450119018555
+    },
+    "SLV_1h_25c_2025-10-09 16-30-00.png": {
+        "slope_first": -0.022357166743650517,
+        "slope_second": 0.016994499398880644,
+        "slope_third": -0.17255116070018134,
+        "slope_whole": 0.011043459334031488,
+        "max_dev": 55,
+        "price_change": 13,
+        "colored_pixels_ratio": 0.0661,
+        "current_price": 43.560001373291016
+    },
+    "SLV_1h_25c_2025-10-09 17-30-00.png": {
+        "slope_first": -0.02437655445478996,
+        "slope_second": -0.003328915489535568,
+        "slope_third": -0.1335926280302169,
+        "slope_whole": 0.009723936115840513,
+        "max_dev": 52,
+        "price_change": 2,
+        "colored_pixels_ratio": 0.0693,
+        "current_price": 44.018798828125
+    },
+    "SLV_1h_25c_2025-10-09 18-30-00.png": {
+        "slope_first": -0.019006668035867095,
+        "slope_second": -0.01482168685345228,
+        "slope_third": -0.04064490374396883,
+        "slope_whole": 0.009550496378067892,
+        "max_dev": 53,
+        "price_change": -11,
+        "colored_pixels_ratio": 0.073,
+        "current_price": 44.4900016784668
+    },
+    "SLV_1h_25c_2025-10-09 19-30-00.png": {
+        "slope_first": -0.007921517728185494,
+        "slope_second": -0.015782646737894278,
+        "slope_third": 0.0665475172155041,
+        "slope_whole": 0.010326587826934528,
+        "max_dev": 53,
+        "price_change": -19,
+        "colored_pixels_ratio": 0.0743,
+        "current_price": 44.79999923706055
+    },
+    "SLV_1h_25c_2025-10-10 13-30-00.png": {
+        "slope_first": 0.004388122192236416,
+        "slope_second": -0.006960902036595933,
+        "slope_third": 0.13767760220695938,
+        "slope_whole": 0.013160735598706291,
+        "max_dev": 54,
+        "price_change": -48,
+        "colored_pixels_ratio": 0.0779,
+        "current_price": 45.81999969482422
+    },
+    "SLV_1h_25c_2025-10-10 14-30-00.png": {
+        "slope_first": 0.016963311569745038,
+        "slope_second": 0.002484138552882146,
+        "slope_third": 0.1208573509665094,
+        "slope_whole": 0.015886995743031207,
+        "max_dev": 56,
+        "price_change": -35,
+        "colored_pixels_ratio": 0.0811,
+        "current_price": 45.4452018737793
+    },
+    "SLV_1h_25c_2025-10-10 15-30-00.png": {
+        "slope_first": 0.02828352599584767,
+        "slope_second": 0.007618901869829845,
+        "slope_third": 0.04452414232141798,
+        "slope_whole": 0.01767169200440543,
+        "max_dev": 57,
+        "price_change": -33,
+        "colored_pixels_ratio": 0.0828,
+        "current_price": 45.27999877929688
+    },
+    "SLV_1h_25c_2025-10-10 16-30-00.png": {
+        "slope_first": 0.03692308478567174,
+        "slope_second": 0.010757714462738167,
+        "slope_third": -0.0309132968678193,
+        "slope_whole": 0.01902752633356587,
+        "max_dev": 57,
+        "price_change": -39,
+        "colored_pixels_ratio": 0.0839,
+        "current_price": 45.3650016784668
+    },
+    "SLV_1h_25c_2025-10-10 17-30-00.png": {
+        "slope_first": 0.04071498069442648,
+        "slope_second": 0.012519222227465349,
+        "slope_third": -0.025457960016587906,
+        "slope_whole": 0.019552933801375776,
+        "max_dev": 57,
+        "price_change": -47,
+        "colored_pixels_ratio": 0.0823,
+        "current_price": 45.375
+    },
+    "SLV_1h_25c_2025-10-10 18-30-00.png": {
+        "slope_first": 0.048904323142831406,
+        "slope_second": 0.01906195302828158,
+        "slope_third": -0.01524820888743743,
+        "slope_whole": 0.018991402581115018,
+        "max_dev": 56,
+        "price_change": -35,
+        "colored_pixels_ratio": 0.0854,
+        "current_price": 44.908199310302734
+    },
+    "SLV_1h_25c_2025-10-10 19-30-00.png": {
+        "slope_first": 0.05108865451698223,
+        "slope_second": 0.02654791714048913,
+        "slope_third": -0.018693503211526602,
+        "slope_whole": 0.017288067162734202,
+        "max_dev": 55,
+        "price_change": -61,
+        "colored_pixels_ratio": 0.084,
+        "current_price": 45.29999923706055
+    },
+    "SLV_1h_25c_2025-10-13 13-30-00.png": {
+        "slope_first": 0.04387467053471769,
+        "slope_second": 0.045538322018260496,
+        "slope_third": 0.11324827530804797,
+        "slope_whole": 0.019190133452737266,
+        "max_dev": 46,
+        "price_change": -88,
+        "colored_pixels_ratio": 0.0706,
+        "current_price": 47.189701080322266
+    },
+    "SLV_1h_25c_2025-10-13 14-30-00.png": {
+        "slope_first": 0.030082667649579252,
+        "slope_second": 0.056107343877492444,
+        "slope_third": 0.16969717250150798,
+        "slope_whole": 0.020493352542651836,
+        "max_dev": 48,
+        "price_change": -80,
+        "colored_pixels_ratio": 0.0711,
+        "current_price": 46.79999923706055
+    },
+    "SLV_1h_25c_2025-10-13 15-30-00.png": {
+        "slope_first": 0.007075107753062213,
+        "slope_second": 0.052621520043564164,
+        "slope_third": 0.12387535431805693,
+        "slope_whole": 0.020898513359026427,
+        "max_dev": 49,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0718,
+        "current_price": 46.97999954223633
+    },
+    "SLV_1h_25c_2025-10-13 16-30-00.png": {
+        "slope_first": -0.01165789820566908,
+        "slope_second": 0.049687314989472334,
+        "slope_third": -0.0035798858193795036,
+        "slope_whole": 0.02101348810570745,
+        "max_dev": 51,
+        "price_change": -59,
+        "colored_pixels_ratio": 0.0729,
+        "current_price": 47.10499954223633
+    },
+    "SLV_1h_25c_2025-10-13 17-30-00.png": {
+        "slope_first": -0.015969157865783214,
+        "slope_second": 0.0473835069306043,
+        "slope_third": 0.007303501577938528,
+        "slope_whole": 0.02346473979978546,
+        "max_dev": 50,
+        "price_change": -58,
+        "colored_pixels_ratio": 0.073,
+        "current_price": 47.2052001953125
+    },
+    "SLV_1h_25c_2025-10-13 18-30-00.png": {
+        "slope_first": -0.011354127038999282,
+        "slope_second": 0.05022200109291762,
+        "slope_third": 0.029992905785055715,
+        "slope_whole": 0.026386850599122467,
+        "max_dev": 48,
+        "price_change": -55,
+        "colored_pixels_ratio": 0.0695,
+        "current_price": 47.31499862670898
+    },
+    "SLV_1h_25c_2025-10-13 19-30-00.png": {
+        "slope_first": -0.0009674270098666404,
+        "slope_second": 0.05491740214152067,
+        "slope_third": 0.02065295051125886,
+        "slope_whole": 0.029168638955570186,
+        "max_dev": 46,
+        "price_change": -51,
+        "colored_pixels_ratio": 0.0689,
+        "current_price": 47.29999923706055
+    },
+    "SLV_1h_25c_2025-10-14 13-30-00.png": {
+        "slope_first": 0.0056917453871195706,
+        "slope_second": 0.0480176680657615,
+        "slope_third": -0.04158345390768699,
+        "slope_whole": 0.02978202208648586,
+        "max_dev": 45,
+        "price_change": -48,
+        "colored_pixels_ratio": 0.0758,
+        "current_price": 47.08000183105469
+    },
+    "SLV_1h_25c_2025-10-14 14-30-00.png": {
+        "slope_first": 0.009539860316685073,
+        "slope_second": 0.04165214401190164,
+        "slope_third": -0.04182344885433419,
+        "slope_whole": 0.030892824366970415,
+        "max_dev": 43,
+        "price_change": -47,
+        "colored_pixels_ratio": 0.0766,
+        "current_price": 46.95500183105469
+    },
+    "SLV_1h_25c_2025-10-14 15-30-00.png": {
+        "slope_first": 0.011898023552682527,
+        "slope_second": 0.03338720864322297,
+        "slope_third": -0.010044109120088403,
+        "slope_whole": 0.031384881446213604,
+        "max_dev": 43,
+        "price_change": -46,
+        "colored_pixels_ratio": 0.0769,
+        "current_price": 46.86000061035156
+    },
+    "SLV_1h_25c_2025-10-14 16-30-00.png": {
+        "slope_first": 0.012651648733223565,
+        "slope_second": 0.023429813636880587,
+        "slope_third": 0.03839262794045804,
+        "slope_whole": 0.031393712613448824,
+        "max_dev": 44,
+        "price_change": -19,
+        "colored_pixels_ratio": 0.078,
+        "current_price": 47.11980056762695
+    },
+    "SLV_1h_25c_2025-10-14 17-30-00.png": {
+        "slope_first": 0.022158482655757792,
+        "slope_second": 0.008603872274007251,
+        "slope_third": 0.012844315697164758,
+        "slope_whole": 0.03418605844501657,
+        "max_dev": 38,
+        "price_change": -37,
+        "colored_pixels_ratio": 0.0724,
+        "current_price": 47.07870101928711
+    },
+    "SLV_1h_25c_2025-10-14 18-30-00.png": {
+        "slope_first": 0.036735906887168865,
+        "slope_second": 0.000716391353904839,
+        "slope_third": 0.00848698335535373,
+        "slope_whole": 0.035149564127860494,
+        "max_dev": 36,
+        "price_change": -47,
+        "colored_pixels_ratio": 0.0688,
+        "current_price": 47.08000183105469
+    },
+    "SLV_1h_25c_2025-10-14 19-30-00.png": {
+        "slope_first": 0.052391421717613094,
+        "slope_second": 0.00012152443985418446,
+        "slope_third": -0.012546903946820826,
+        "slope_whole": 0.03399830424174008,
+        "max_dev": 36,
+        "price_change": -51,
+        "colored_pixels_ratio": 0.0678,
+        "current_price": 46.790000915527344
+    },
+    "SLV_1h_25c_2025-10-15 13-30-00.png": {
+        "slope_first": 0.05358436154002634,
+        "slope_second": 0.005379179076415755,
+        "slope_third": 0.037171347001019595,
+        "slope_whole": 0.03220609937885856,
+        "max_dev": 29,
+        "price_change": -96,
+        "colored_pixels_ratio": 0.0644,
+        "current_price": 47.87990188598633
+    },
+    "SLV_1h_25c_2025-10-15 14-30-00.png": {
+        "slope_first": 0.05084270023927536,
+        "slope_second": 0.011733900530427107,
+        "slope_third": 0.07727173075956437,
+        "slope_whole": 0.03000575001805598,
+        "max_dev": 29,
+        "price_change": -91,
+        "colored_pixels_ratio": 0.064,
+        "current_price": 47.91999816894531
+    },
+    "SLV_1h_25c_2025-10-15 15-30-00.png": {
+        "slope_first": 0.048202289338587216,
+        "slope_second": 0.016610938870177106,
+        "slope_third": 0.06433098736931205,
+        "slope_whole": 0.027778705765168787,
+        "max_dev": 32,
+        "price_change": -92,
+        "colored_pixels_ratio": 0.0719,
+        "current_price": 47.81560134887695
+    },
+    "SLV_1h_25c_2025-10-15 16-30-00.png": {
+        "slope_first": 0.04694069320843562,
+        "slope_second": 0.02017542954681878,
+        "slope_third": -0.012677338544060536,
+        "slope_whole": 0.025631617063378607,
+        "max_dev": 35,
+        "price_change": -63,
+        "colored_pixels_ratio": 0.0798,
+        "current_price": 47.5099983215332
+    },
+    "SLV_1h_25c_2025-10-15 17-30-00.png": {
+        "slope_first": 0.052194789414789396,
+        "slope_second": 0.025619906165591337,
+        "slope_third": -0.013795476801255615,
+        "slope_whole": 0.025496889486922195,
+        "max_dev": 36,
+        "price_change": -69,
+        "colored_pixels_ratio": 0.0803,
+        "current_price": 48.04499816894531
+    },
+    "SLV_1h_25c_2025-10-15 18-30-00.png": {
+        "slope_first": 0.051673882382543154,
+        "slope_second": 0.029121526784541853,
+        "slope_third": 0.027100697685689987,
+        "slope_whole": 0.02595043465070385,
+        "max_dev": 33,
+        "price_change": -81,
+        "colored_pixels_ratio": 0.0731,
+        "current_price": 48.26499938964844
+    },
+    "SLV_1h_25c_2025-10-15 19-30-00.png": {
+        "slope_first": 0.04542626517159609,
+        "slope_second": 0.030601302166374456,
+        "slope_third": 0.053499979131362334,
+        "slope_whole": 0.025422137237832373,
+        "max_dev": 33,
+        "price_change": -87,
+        "colored_pixels_ratio": 0.0708,
+        "current_price": 48.369998931884766
+    },
+    "SLV_1h_25c_2025-10-16 13-30-00.png": {
+        "slope_first": 0.037804068099407485,
+        "slope_second": 0.03292477226486304,
+        "slope_third": 0.054507339701932556,
+        "slope_whole": 0.024674456825565207,
+        "max_dev": 31,
+        "price_change": -87,
+        "colored_pixels_ratio": 0.0676,
+        "current_price": 48.84000015258789
+    },
+    "SLV_1h_25c_2025-10-16 14-30-00.png": {
+        "slope_first": 0.028602054774546786,
+        "slope_second": 0.03739829513348314,
+        "slope_third": 0.06137726727653845,
+        "slope_whole": 0.024524856530758067,
+        "max_dev": 30,
+        "price_change": -87,
+        "colored_pixels_ratio": 0.0655,
+        "current_price": 49.04930114746094
+    },
+    "SLV_1h_25c_2025-10-16 15-30-00.png": {
+        "slope_first": 0.0160908914957587,
+        "slope_second": 0.04146420976838007,
+        "slope_third": 0.0694553431342625,
+        "slope_whole": 0.023564653416635495,
+        "max_dev": 32,
+        "price_change": -97,
+        "colored_pixels_ratio": 0.0615,
+        "current_price": 49.19499969482422
+    },
+    "SLV_1h_25c_2025-10-16 16-30-00.png": {
+        "slope_first": 0.0003014299591907389,
+        "slope_second": 0.041757496699851605,
+        "slope_third": 0.04155324487125121,
+        "slope_whole": 0.021559746207469983,
+        "max_dev": 39,
+        "price_change": -59,
+        "colored_pixels_ratio": 0.0739,
+        "current_price": 49.03419876098633
+    },
+    "SLV_1h_25c_2025-10-16 17-30-00.png": {
+        "slope_first": 0.0005318254010588784,
+        "slope_second": 0.038227339214494505,
+        "slope_third": -0.005130616356344808,
+        "slope_whole": 0.023322525665347427,
+        "max_dev": 38,
+        "price_change": -45,
+        "colored_pixels_ratio": 0.0734,
+        "current_price": 48.78499984741211
+    },
+    "SLV_1h_25c_2025-10-16 18-30-00.png": {
+        "slope_first": 0.002883607056103788,
+        "slope_second": 0.032712540826877586,
+        "slope_third": -0.02513492808622544,
+        "slope_whole": 0.024455916996729117,
+        "max_dev": 36,
+        "price_change": -56,
+        "colored_pixels_ratio": 0.071,
+        "current_price": 48.7599983215332
+    },
+    "SLV_1h_25c_2025-10-16 19-30-00.png": {
+        "slope_first": 0.008482440339416883,
+        "slope_second": 0.03211637132880497,
+        "slope_third": -0.008805673262652868,
+        "slope_whole": 0.025334583491918486,
+        "max_dev": 35,
+        "price_change": -62,
+        "colored_pixels_ratio": 0.0727,
+        "current_price": 49.16999816894531
+    },
+    "SLV_1h_25c_2025-10-17 13-30-00.png": {
+        "slope_first": 0.014303651514316703,
+        "slope_second": 0.02022274479860301,
+        "slope_third": -0.08420369204353004,
+        "slope_whole": 0.023429735208322956,
+        "max_dev": 60,
+        "price_change": -7,
+        "colored_pixels_ratio": 0.0821,
+        "current_price": 47.31909942626953
+    },
+    "SLV_1h_25c_2025-10-17 14-30-00.png": {
+        "slope_first": 0.018606501621644716,
+        "slope_second": 0.002574289054000471,
+        "slope_third": -0.14263607473934448,
+        "slope_whole": 0.02042650984458805,
+        "max_dev": 53,
+        "price_change": 2,
+        "colored_pixels_ratio": 0.0831,
+        "current_price": 47.13999938964844
+    },
+    "SLV_1h_25c_2025-10-17 15-30-00.png": {
+        "slope_first": 0.02287689831792079,
+        "slope_second": -0.017683817118155643,
+        "slope_third": -0.15657408097211103,
+        "slope_whole": 0.017321208126366627,
+        "max_dev": 53,
+        "price_change": 13,
+        "colored_pixels_ratio": 0.0852,
+        "current_price": 46.83000183105469
+    },
+    "SLV_1h_25c_2025-10-17 16-30-00.png": {
+        "slope_first": 0.02919388348601146,
+        "slope_second": -0.03868674306880948,
+        "slope_third": -0.11490732641781086,
+        "slope_whole": 0.01281143167875136,
+        "max_dev": 72,
+        "price_change": -9,
+        "colored_pixels_ratio": 0.0901,
+        "current_price": 46.310001373291016
+    },
+    "SLV_1h_25c_2025-10-17 17-30-00.png": {
+        "slope_first": 0.02873824322209348,
+        "slope_second": -0.05332675343086439,
+        "slope_third": -0.06769916871014797,
+        "slope_whole": 0.006894140280727317,
+        "max_dev": 65,
+        "price_change": 5,
+        "colored_pixels_ratio": 0.0893,
+        "current_price": 46.8849983215332
+    },
+    "SLV_1h_25c_2025-10-17 18-30-00.png": {
+        "slope_first": 0.03144155055821154,
+        "slope_second": -0.06265414655852578,
+        "slope_third": -0.02153321995454691,
+        "slope_whole": 0.0024765200976884045,
+        "max_dev": 59,
+        "price_change": 8,
+        "colored_pixels_ratio": 0.0897,
+        "current_price": 46.665000915527344
+    },
+    "SLV_1h_25c_2025-10-17 19-30-00.png": {
+        "slope_first": 0.035203009121128837,
+        "slope_second": -0.0659078721210163,
+        "slope_third": 0.024885542252484495,
+        "slope_whole": -0.0017987657530404405,
+        "max_dev": 54,
+        "price_change": -3,
+        "colored_pixels_ratio": 0.0906,
+        "current_price": 46.95000076293945
+    },
+    "SLV_1h_25c_2025-10-20 13-30-00.png": {
+        "slope_first": 0.0396488747476531,
+        "slope_second": -0.056877715624824125,
+        "slope_third": 0.06125741285436279,
+        "slope_whole": -0.0043259286408379475,
+        "max_dev": 53,
+        "price_change": -7,
+        "colored_pixels_ratio": 0.0924,
+        "current_price": 47.369998931884766
+    },
+    "SLV_1h_25c_2025-10-20 14-30-00.png": {
+        "slope_first": 0.042911409192583364,
+        "slope_second": -0.045274434725061936,
+        "slope_third": 0.05641906401690278,
+        "slope_whole": -0.006855087852535337,
+        "max_dev": 51,
+        "price_change": -13,
+        "colored_pixels_ratio": 0.0944,
+        "current_price": 47.51499938964844
+    },
+    "SLV_1h_25c_2025-10-20 15-30-00.png": {
+        "slope_first": 0.0410104240060284,
+        "slope_second": -0.032752257091801455,
+        "slope_third": 0.03815437765682351,
+        "slope_whole": -0.009586759716621145,
+        "max_dev": 51,
+        "price_change": -7,
+        "colored_pixels_ratio": 0.0962,
+        "current_price": 47.334999084472656
+    },
+    "SLV_1h_25c_2025-10-20 16-30-00.png": {
+        "slope_first": 0.03360631514568735,
+        "slope_second": -0.020374976772935666,
+        "slope_third": -0.021169135149787285,
+        "slope_whole": -0.013156718160524805,
+        "max_dev": 50,
+        "price_change": 15,
+        "colored_pixels_ratio": 0.0942,
+        "current_price": 47.22499847412109
+    },
+    "SLV_1h_25c_2025-10-20 17-30-00.png": {
+        "slope_first": 0.03208361182607803,
+        "slope_second": -0.005256057317946794,
+        "slope_third": -0.013686769148882701,
+        "slope_whole": -0.014597450986553876,
+        "max_dev": 50,
+        "price_change": 13,
+        "colored_pixels_ratio": 0.094,
+        "current_price": 47.41519927978516
+    },
+    "SLV_1h_25c_2025-10-20 18-30-00.png": {
+        "slope_first": 0.029357050864779848,
+        "slope_second": 0.01250457690400391,
+        "slope_third": 0.0013843929066380443,
+        "slope_whole": -0.015191001102368921,
+        "max_dev": 51,
+        "price_change": 12,
+        "colored_pixels_ratio": 0.0939,
+        "current_price": 47.505001068115234
+    },
+    "SLV_1h_25c_2025-10-20 19-30-00.png": {
+        "slope_first": 0.011952242078471766,
+        "slope_second": 0.018480355582174292,
+        "slope_third": 0.026837937972124755,
+        "slope_whole": -0.015652353450982266,
+        "max_dev": 53,
+        "price_change": 3,
+        "colored_pixels_ratio": 0.0941,
+        "current_price": 47.709999084472656
+    },
+    "SLV_1h_25c_2025-10-21 13-30-00.png": {
+        "slope_first": -0.007366345463967035,
+        "slope_second": -0.004919631976325621,
+        "slope_third": -0.20315706589642754,
+        "slope_whole": -0.02363762062088785,
+        "max_dev": 51,
+        "price_change": 66,
+        "colored_pixels_ratio": 0.0654,
+        "current_price": 43.744998931884766
+    },
+    "SLV_1h_25c_2025-10-21 14-30-00.png": {
+        "slope_first": -0.027635414334191057,
+        "slope_second": -0.03278353101494509,
+        "slope_third": -0.33465980080997326,
+        "slope_whole": -0.03208751347699452,
+        "max_dev": 45,
+        "price_change": 65,
+        "colored_pixels_ratio": 0.0631,
+        "current_price": 44.1150016784668
+    },
+    "SLV_1h_25c_2025-10-21 15-30-00.png": {
+        "slope_first": -0.04657216872344656,
+        "slope_second": -0.058173949022968546,
+        "slope_third": -0.2626228332519534,
+        "slope_whole": -0.038102686298598205,
+        "max_dev": 40,
+        "price_change": 68,
+        "colored_pixels_ratio": 0.0626,
+        "current_price": 44.185001373291016
+    },
+    "SLV_1h_25c_2025-10-21 16-30-00.png": {
+        "slope_first": -0.0579826479542012,
+        "slope_second": -0.07797188730228406,
+        "slope_third": -0.038525974049287835,
+        "slope_whole": -0.0435190080745137,
+        "max_dev": 36,
+        "price_change": 71,
+        "colored_pixels_ratio": 0.0637,
+        "current_price": 43.84000015258789
+    },
+    "SLV_1h_25c_2025-10-21 17-30-00.png": {
+        "slope_first": -0.0658949074624968,
+        "slope_second": -0.09423154650043608,
+        "slope_third": -8.63411847284898e-05,
+        "slope_whole": -0.04774421508770768,
+        "max_dev": 36,
+        "price_change": 80,
+        "colored_pixels_ratio": 0.0611,
+        "current_price": 44.05500030517578
+    },
+    "SLV_1h_25c_2025-10-21 18-30-00.png": {
+        "slope_first": -0.060940172944177355,
+        "slope_second": -0.10198532617392642,
+        "slope_third": -0.03456291871912478,
+        "slope_whole": -0.05034352448764167,
+        "max_dev": 37,
+        "price_change": 91,
+        "colored_pixels_ratio": 0.0625,
+        "current_price": 43.560001373291016
+    },
+    "SLV_1h_25c_2025-10-21 19-30-00.png": {
+        "slope_first": -0.051384838237052824,
+        "slope_second": -0.10451582213696037,
+        "slope_third": -0.031397757810705,
+        "slope_whole": -0.05185587191989478,
+        "max_dev": 38,
+        "price_change": 91,
+        "colored_pixels_ratio": 0.0617,
+        "current_price": 43.77000045776367
+    },
+    "SLV_1h_25c_2025-10-22 13-30-00.png": {
+        "slope_first": -0.03940704437292489,
+        "slope_second": -0.09966456583854232,
+        "slope_third": -0.01994851617252132,
+        "slope_whole": -0.05231986777474162,
+        "max_dev": 38,
+        "price_change": 91,
+        "colored_pixels_ratio": 0.0615,
+        "current_price": 43.65499877929688
+    },
+    "SLV_1h_25c_2025-10-22 14-30-00.png": {
+        "slope_first": -0.026840083567607025,
+        "slope_second": -0.09218545847293984,
+        "slope_third": -0.01827946270213433,
+        "slope_whole": -0.05239962003555113,
+        "max_dev": 38,
+        "price_change": 86,
+        "colored_pixels_ratio": 0.0604,
+        "current_price": 43.595001220703125
+    },
+    "SLV_1h_25c_2025-10-22 15-30-00.png": {
+        "slope_first": -0.013739402743519619,
+        "slope_second": -0.07924177465175505,
+        "slope_third": -0.010308882769416355,
+        "slope_whole": -0.05165930410637495,
+        "max_dev": 38,
+        "price_change": 85,
+        "colored_pixels_ratio": 0.0604,
+        "current_price": 43.65999984741211
+    },
+    "SLV_1h_25c_2025-10-22 16-30-00.png": {
+        "slope_first": 0.0044623092156785196,
+        "slope_second": -0.05909183662478649,
+        "slope_third": -0.011411111495074424,
+        "slope_whole": -0.04950546024298475,
+        "max_dev": 42,
+        "price_change": 91,
+        "colored_pixels_ratio": 0.0655,
+        "current_price": 43.57569885253906
+    },
+    "SLV_1h_25c_2025-10-22 17-30-00.png": {
+        "slope_first": 0.014652916220199111,
+        "slope_second": -0.03252384913926526,
+        "slope_third": -0.002125184676226946,
+        "slope_whole": -0.04931522697863043,
+        "max_dev": 49,
+        "price_change": 80,
+        "colored_pixels_ratio": 0.0671,
+        "current_price": 43.625
+    },
+    "SLV_1h_25c_2025-10-22 18-30-00.png": {
+        "slope_first": 0.009557010059883278,
+        "slope_second": -0.009206730910137465,
+        "slope_third": 0.005463156980626209,
+        "slope_whole": -0.0492585087823968,
+        "max_dev": 47,
+        "price_change": 72,
+        "colored_pixels_ratio": 0.0666,
+        "current_price": 43.86009979248047
+    },
+    "SLV_1h_25c_2025-10-22 19-30-00.png": {
+        "slope_first": -0.01869961100895432,
+        "slope_second": -0.0073405401589347495,
+        "slope_third": 0.021168175865621915,
+        "slope_whole": -0.04871626521172634,
+        "max_dev": 46,
+        "price_change": 65,
+        "colored_pixels_ratio": 0.0644,
+        "current_price": 43.869998931884766
+    },
+    "SLV_1h_25c_2025-10-23 13-30-00.png": {
+        "slope_first": -0.04677967176860981,
+        "slope_second": 0.0023650093582357166,
+        "slope_third": 0.07925611944759585,
+        "slope_whole": -0.047279085536422454,
+        "max_dev": 46,
+        "price_change": 37,
+        "colored_pixels_ratio": 0.0613,
+        "current_price": 44.56990051269531
+    },
+    "SLV_1h_25c_2025-10-23 14-30-00.png": {
+        "slope_first": -0.0686996736560835,
+        "slope_second": 0.012491953324298519,
+        "slope_third": 0.07892421273624192,
+        "slope_whole": -0.04525862724974906,
+        "max_dev": 48,
+        "price_change": 48,
+        "colored_pixels_ratio": 0.0579,
+        "current_price": 44.65999984741211
+    },
+    "SLV_1h_25c_2025-10-23 15-30-00.png": {
+        "slope_first": -0.08702944843708992,
+        "slope_second": 0.0186458218541322,
+        "slope_third": 0.042379154878504154,
+        "slope_whole": -0.042528734295853965,
+        "max_dev": 49,
+        "price_change": 48,
+        "colored_pixels_ratio": 0.0573,
+        "current_price": 44.45000076293945
+    },
+    "SLV_1h_25c_2025-10-23 16-30-00.png": {
+        "slope_first": -0.09981251729207308,
+        "slope_second": 0.023516777194276185,
+        "slope_third": -0.02366189956665081,
+        "slope_whole": -0.03971336994234087,
+        "max_dev": 50,
+        "price_change": 75,
+        "colored_pixels_ratio": 0.0565,
+        "current_price": 44.33000183105469
+    },
+    "SLV_1h_25c_2025-10-23 17-30-00.png": {
+        "slope_first": -0.10464289066456679,
+        "slope_second": 0.02401125501470125,
+        "slope_third": -0.018468739004696515,
+        "slope_whole": -0.03457862602208722,
+        "max_dev": 50,
+        "price_change": 63,
+        "colored_pixels_ratio": 0.0551,
+        "current_price": 44.525001525878906
+    },
+    "SLV_1h_25c_2025-10-23 18-30-00.png": {
+        "slope_first": -0.1026797481687982,
+        "slope_second": 0.025169724628132342,
+        "slope_third": -0.01007163103889069,
+        "slope_whole": -0.029080803862857166,
+        "max_dev": 47,
+        "price_change": 70,
+        "colored_pixels_ratio": 0.054,
+        "current_price": 44.36000061035156
+    },
+    "SLV_1h_25c_2025-10-23 19-30-00.png": {
+        "slope_first": -0.09617086861600081,
+        "slope_second": 0.022667654525189096,
+        "slope_third": -0.010328842611874289,
+        "slope_whole": -0.023332577695941024,
+        "max_dev": 52,
+        "price_change": 71,
+        "colored_pixels_ratio": 0.0538,
+        "current_price": 44.16999816894531
+    },
+    "SLV_1h_25c_2025-10-24 13-30-00.png": {
+        "slope_first": -0.08643366965926959,
+        "slope_second": 0.016794634907185472,
+        "slope_third": -0.02765789592967354,
+        "slope_whole": -0.017722186258237602,
+        "max_dev": 57,
+        "price_change": 69,
+        "colored_pixels_ratio": 0.0538,
+        "current_price": 44.119998931884766
+    },
+    "SLV_1h_25c_2025-10-24 14-30-00.png": {
+        "slope_first": -0.06991661996829965,
+        "slope_second": 0.010965319355281307,
+        "slope_third": -0.028469096913057428,
+        "slope_whole": -0.01143735563436725,
+        "max_dev": 65,
+        "price_change": 72,
+        "colored_pixels_ratio": 0.0535,
+        "current_price": 44.19010162353516
+    },
+    "SLV_1h_25c_2025-10-24 15-30-00.png": {
+        "slope_first": -0.04678430948795524,
+        "slope_second": 0.004432299042664018,
+        "slope_third": -0.007196617126465546,
+        "slope_whole": -0.003949384280163698,
+        "max_dev": 75,
+        "price_change": 72,
+        "colored_pixels_ratio": 0.0534,
+        "current_price": 44.22499847412109
+    },
+    "SLV_1h_25c_2025-10-24 16-30-00.png": {
+        "slope_first": -0.015768288638697725,
+        "slope_second": -0.0025663832427502645,
+        "slope_third": 0.0056088728063245765,
+        "slope_whole": 0.004474982059363062,
+        "max_dev": 72,
+        "price_change": 49,
+        "colored_pixels_ratio": 0.1041,
+        "current_price": 44.16999816894531
+    },
+    "SLV_1h_25c_2025-10-24 17-30-00.png": {
+        "slope_first": -0.008835336014288372,
+        "slope_second": -0.009960736003385758,
+        "slope_third": -0.009092908747056504,
+        "slope_whole": 0.005456865403947463,
+        "max_dev": 50,
+        "price_change": -10,
+        "colored_pixels_ratio": 0.1113,
+        "current_price": 43.91999816894531
+    },
+    "SLV_1h_25c_2025-10-24 18-30-00.png": {
+        "slope_first": -0.0031165441029925955,
+        "slope_second": -0.01300741628438487,
+        "slope_third": -0.021702480316162797,
+        "slope_whole": 0.0048397429540927624,
+        "max_dev": 51,
+        "price_change": 6,
+        "colored_pixels_ratio": 0.1023,
+        "current_price": 44.025001525878906
+    },
+    "SLV_1h_25c_2025-10-24 19-30-00.png": {
+        "slope_first": 0.0074625903217738114,
+        "slope_second": -0.012723177833145027,
+        "slope_third": -0.018624210357667134,
+        "slope_whole": 0.005038750869105526,
+        "max_dev": 53,
+        "price_change": 17,
+        "colored_pixels_ratio": 0.1011,
+        "current_price": 43.91999816894531
+    },
+    "SLV_1h_25c_2025-10-27 13-30-00.png": {
+        "slope_first": 0.015795540323062348,
+        "slope_second": -0.023802538959919812,
+        "slope_third": -0.11091217153212646,
+        "slope_whole": 0.00146143886086589,
+        "max_dev": 72,
+        "price_change": 58,
+        "colored_pixels_ratio": 0.0647,
+        "current_price": 42.16999816894531
+    },
+    "SLV_1h_25c_2025-10-27 14-30-00.png": {
+        "slope_first": 0.021220959941593884,
+        "slope_second": -0.037899669633478225,
+        "slope_third": -0.17697223775527088,
+        "slope_whole": -0.003093547987000917,
+        "max_dev": 65,
+        "price_change": 60,
+        "colored_pixels_ratio": 0.0577,
+        "current_price": 42.125
+    },
+    "SLV_1h_25c_2025-10-27 15-30-00.png": {
+        "slope_first": 0.023585989632669096,
+        "slope_second": -0.04801924615060869,
+        "slope_third": -0.14731861563289872,
+        "slope_whole": -0.007394200258343824,
+        "max_dev": 57,
+        "price_change": 42,
+        "colored_pixels_ratio": 0.0546,
+        "current_price": 42.220001220703125
+    },
+    "SLV_1h_25c_2025-10-27 16-30-00.png": {
+        "slope_first": 0.0245183950655453,
+        "slope_second": -0.05216404066509398,
+        "slope_third": -0.018053391400506068,
+        "slope_whole": -0.011320980952160206,
+        "max_dev": 52,
+        "price_change": 40,
+        "colored_pixels_ratio": 0.0549,
+        "current_price": 42.459999084472656
+    },
+    "SLV_1h_25c_2025-10-27 17-30-00.png": {
+        "slope_first": 0.024319295161912138,
+        "slope_second": -0.05264983434780149,
+        "slope_third": 0.03694717743817446,
+        "slope_whole": -0.014317818477710048,
+        "max_dev": 48,
+        "price_change": 35,
+        "colored_pixels_ratio": 0.0541,
+        "current_price": 42.540000915527344
+    },
+    "SLV_1h_25c_2025-10-27 18-30-00.png": {
+        "slope_first": 0.01976008256085617,
+        "slope_second": -0.05235178898219448,
+        "slope_third": 0.02481677111457409,
+        "slope_whole": -0.017681054871539495,
+        "max_dev": 45,
+        "price_change": 39,
+        "colored_pixels_ratio": 0.0543,
+        "current_price": 42.345001220703125
+    },
+    "SLV_1h_25c_2025-10-27 19-30-00.png": {
+        "slope_first": 0.013786095004407863,
+        "slope_second": -0.05121381175761324,
+        "slope_third": 0.0019502303179572732,
+        "slope_whole": -0.020912468558562356,
+        "max_dev": 43,
+        "price_change": 39,
+        "colored_pixels_ratio": 0.0536,
+        "current_price": 42.41999816894531
+    },
+    "SLV_1h_25c_2025-10-28 13-30-00.png": {
+        "slope_first": 0.007819628400676723,
+        "slope_second": -0.045855208599553055,
+        "slope_third": -0.0031329547657689893,
+        "slope_whole": -0.02356715832105667,
+        "max_dev": 42,
+        "price_change": 27,
+        "colored_pixels_ratio": 0.0557,
+        "current_price": 42.70500183105469
+    },
+    "SLV_1h_25c_2025-10-28 14-30-00.png": {
+        "slope_first": 0.0008007854631107181,
+        "slope_second": -0.036051222307770844,
+        "slope_third": 0.014026484769933447,
+        "slope_whole": -0.02588188384268133,
+        "max_dev": 42,
+        "price_change": 31,
+        "colored_pixels_ratio": 0.0556,
+        "current_price": 42.65499877929688
+    },
+    "SLV_1h_25c_2025-10-28 15-30-00.png": {
+        "slope_first": -0.006073775457448724,
+        "slope_second": -0.02397186462475611,
+        "slope_third": 0.025814280790441898,
+        "slope_whole": -0.027480202854269952,
+        "max_dev": 43,
+        "price_change": 35,
+        "colored_pixels_ratio": 0.0544,
+        "current_price": 42.72999954223633
+    },
+    "SLV_1h_25c_2025-10-28 16-30-00.png": {
+        "slope_first": -0.01373197136520643,
+        "slope_second": -0.01125719379548682,
+        "slope_third": 0.020744497635785012,
+        "slope_whole": -0.028289765644960597,
+        "max_dev": 45,
+        "price_change": 58,
+        "colored_pixels_ratio": 0.0558,
+        "current_price": 42.86000061035156
+    },
+    "SLV_1h_25c_2025-10-28 17-30-00.png": {
+        "slope_first": -0.012998356630249914,
+        "slope_second": 0.0039642786435863655,
+        "slope_third": 0.009218502044677607,
+        "slope_whole": -0.027011189796958508,
+        "max_dev": 49,
+        "price_change": 62,
+        "colored_pixels_ratio": 0.058,
+        "current_price": 42.67160034179688
+    },
+    "SLV_1h_25c_2025-10-28 18-30-00.png": {
+        "slope_first": -0.016666574100342918,
+        "slope_second": 0.014884112702698404,
+        "slope_third": -0.002423320097082095,
+        "slope_whole": -0.025675156367565462,
+        "max_dev": 51,
+        "price_change": 64,
+        "colored_pixels_ratio": 0.0584,
+        "current_price": 42.73500061035156
+    },
+    "SLV_1h_25c_2025-10-28 19-30-00.png": {
+        "slope_first": -0.030796128693176432,
+        "slope_second": 0.013404955732292917,
+        "slope_third": -0.006528534608728895,
+        "slope_whole": -0.024004566846150075,
+        "max_dev": 54,
+        "price_change": 60,
+        "colored_pixels_ratio": 0.0584,
+        "current_price": 42.720001220703125
+    },
+    "SLV_1h_25c_2025-10-29 13-30-00.png": {
+        "slope_first": -0.043352745578212164,
+        "slope_second": 0.019765760185910315,
+        "slope_third": 0.07108160467708839,
+        "slope_whole": -0.01995684827729616,
+        "max_dev": 58,
+        "price_change": 17,
+        "colored_pixels_ratio": 0.0582,
+        "current_price": 43.84999847412109
+    },
+    "SLV_1h_25c_2025-10-29 14-30-00.png": {
+        "slope_first": -0.05070593038240664,
+        "slope_second": 0.024918579797641827,
+        "slope_third": 0.10173470553229835,
+        "slope_whole": -0.01569133851251363,
+        "max_dev": 57,
+        "price_change": 26,
+        "colored_pixels_ratio": 0.06,
+        "current_price": 43.77999877929688
+    },
+    "SLV_1h_25c_2025-10-29 15-30-00.png": {
+        "slope_first": -0.05270751879853496,
+        "slope_second": 0.02962627159017898,
+        "slope_third": 0.07055830675012915,
+        "slope_whole": -0.01137307440308225,
+        "max_dev": 60,
+        "price_change": 21,
+        "colored_pixels_ratio": 0.0593,
+        "current_price": 43.786582946777344
+    },
+    "SLV_1h_25c_2025-10-29 16-30-00.png": {
+        "slope_first": -0.0523792071760343,
+        "slope_second": 0.032185100908039076,
+        "slope_third": -0.01638048957375952,
+        "slope_whole": -0.00762951312678874,
+        "max_dev": 58,
+        "price_change": 23,
+        "colored_pixels_ratio": 0.0617,
+        "current_price": 43.45000076293945
+    },
+    "SLV_1h_25c_2025-10-29 17-30-00.png": {
+        "slope_first": -0.0524326746689884,
+        "slope_second": 0.030592944269993268,
+        "slope_third": -0.024968495088465766,
+        "slope_whole": -0.004351866567882426,
+        "max_dev": 58,
+        "price_change": 24,
+        "colored_pixels_ratio": 0.0634,
+        "current_price": 43.5
+    },
+    "SLV_1h_25c_2025-10-29 18-30-00.png": {
+        "slope_first": -0.04912219154019023,
+        "slope_second": 0.026043578258940152,
+        "slope_third": -0.038325466829188096,
+        "slope_whole": -0.0014779939602849591,
+        "max_dev": 55,
+        "price_change": 34,
+        "colored_pixels_ratio": 0.0662,
+        "current_price": 43.29999923706055
+    },
+    "SLV_1h_25c_2025-10-29 19-30-00.png": {
+        "slope_first": -0.04115200981515644,
+        "slope_second": 0.020932791024124497,
+        "slope_third": -0.037872499578139776,
+        "slope_whole": 0.0015766494251964562,
+        "max_dev": 51,
+        "price_change": 37,
+        "colored_pixels_ratio": 0.0668,
+        "current_price": 43.25
+    },
+    "SLV_1h_25c_2025-10-30 13-30-00.png": {
+        "slope_first": -0.03025007909657989,
+        "slope_second": 0.02142466587465075,
+        "slope_third": 0.021862450767966123,
+        "slope_whole": 0.00634560196742313,
+        "max_dev": 57,
+        "price_change": 3,
+        "colored_pixels_ratio": 0.0724,
+        "current_price": 44.08440017700195
+    },
+    "SLV_1h_25c_2025-10-30 14-30-00.png": {
+        "slope_first": -0.017940328353020625,
+        "slope_second": 0.023661856038802272,
+        "slope_third": 0.07767657111672792,
+        "slope_whole": 0.011478336424645857,
+        "max_dev": 58,
+        "price_change": -14,
+        "colored_pixels_ratio": 0.0689,
+        "current_price": 44.310001373291016
+    },
+    "SLV_1h_25c_2025-10-30 15-30-00.png": {
+        "slope_first": -0.0035329837501408977,
+        "slope_second": 0.024984220250600264,
+        "slope_third": 0.08130978415994045,
+        "slope_whole": 0.01660486541207822,
+        "max_dev": 68,
+        "price_change": -8,
+        "colored_pixels_ratio": 0.0689,
+        "current_price": 44.23500061035156
+    },
+    "SLV_1h_25c_2025-10-30 16-30-00.png": {
+        "slope_first": 0.011697302517198296,
+        "slope_second": 0.022848348079466254,
+        "slope_third": 0.02895352980669806,
+        "slope_whole": 0.02168324049049205,
+        "max_dev": 39,
+        "price_change": -50,
+        "colored_pixels_ratio": 0.0687,
+        "current_price": 44.3218002319336
+    },
+    "SLV_1h_25c_2025-10-30 17-30-00.png": {
+        "slope_first": 0.01418844948868239,
+        "slope_second": 0.01844122805372149,
+        "slope_third": 0.005847897249109503,
+        "slope_whole": 0.023216032731508008,
+        "max_dev": 33,
+        "price_change": -78,
+        "colored_pixels_ratio": 0.06,
+        "current_price": 44.29499816894531
+    },
+    "SLV_1h_25c_2025-10-30 18-30-00.png": {
+        "slope_first": 0.016575611384690603,
+        "slope_second": 0.018115534971312842,
+        "slope_third": 0.004654682383817284,
+        "slope_whole": 0.023223113098052993,
+        "max_dev": 36,
+        "price_change": -89,
+        "colored_pixels_ratio": 0.0644,
+        "current_price": 44.35499954223633
+    },
+    "SLV_1h_25c_2025-10-30 19-30-00.png": {
+        "slope_first": 0.022395967847588124,
+        "slope_second": 0.02151155762598012,
+        "slope_third": 0.0070718821357269816,
+        "slope_whole": 0.0231383642133135,
+        "max_dev": 39,
+        "price_change": -93,
+        "colored_pixels_ratio": 0.0672,
+        "current_price": 44.33000183105469
+    }
+}

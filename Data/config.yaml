@@ -3,7 +3,6 @@
 # List of tickers to download
 tickers:
   - SLV
-  - AGQ
 
 # List of intervals to download for each ticker
 intervals:

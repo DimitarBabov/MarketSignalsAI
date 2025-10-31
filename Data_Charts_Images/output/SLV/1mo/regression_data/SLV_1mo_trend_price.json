@@ -1,0 +1,837 @@
+{
+    "_comments": [
+        "shape: sequence of slopes ('n' = negative, 'p' = positive).",
+        "trend_strength_1mo: (price_change / max_dev_norm) / colored_pixels_ratio_norm",
+        "current_price_1mo: close price of the last candle in the window (for trading simulation)"
+    ],
+    "SLV_1mo_25c_2012-01-01 00-00-00_trend_48.669.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 48.66936284493635,
+        "current_price_1mo": 32.279998779296875
+    },
+    "SLV_1mo_25c_2012-02-01 00-00-00_trend_54.037.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 54.03670380715236,
+        "current_price_1mo": 33.54999923706055
+    },
+    "SLV_1mo_25c_2012-03-01 00-00-00_trend_42.276.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 42.275594204165564,
+        "current_price_1mo": 31.3799991607666
+    },
+    "SLV_1mo_25c_2012-04-01 00-00-00_trend_33.469.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 33.46941194759703,
+        "current_price_1mo": 30.11000061035156
+    },
+    "SLV_1mo_25c_2012-05-01 00-00-00_trend_22.591.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 22.591295530187466,
+        "current_price_1mo": 26.959999084472656
+    },
+    "SLV_1mo_25c_2012-06-01 00-00-00_trend_22.505.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 22.50465585413689,
+        "current_price_1mo": 26.649999618530277
+    },
+    "SLV_1mo_25c_2012-07-01 00-00-00_trend_23.473.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 23.473194384235647,
+        "current_price_1mo": 27.1200008392334
+    },
+    "SLV_1mo_25c_2012-08-01 00-00-00_trend_33.289.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 33.289477561734245,
+        "current_price_1mo": 30.790000915527344
+    },
+    "SLV_1mo_25c_2012-09-01 00-00-00_trend_37.902.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 37.90187505522754,
+        "current_price_1mo": 33.47999954223633
+    },
+    "SLV_1mo_25c_2012-10-01 00-00-00_trend_25.054.png": {
+        "shape": "pnpn",
+        "trend_strength_1mo": 25.053608388587083,
+        "current_price_1mo": 31.270000457763672
+    },
+    "SLV_1mo_25c_2012-11-01 00-00-00_trend_20.531.png": {
+        "shape": "pnpn",
+        "trend_strength_1mo": 20.53069273712376,
+        "current_price_1mo": 32.36000061035156
+    },
+    "SLV_1mo_25c_2012-12-01 00-00-00_trend_4.106.png": {
+        "shape": "ppnn",
+        "trend_strength_1mo": 4.106497680106404,
+        "current_price_1mo": 29.3700008392334
+    },
+    "SLV_1mo_25c_2013-01-01 00-00-00_trend_-0.000.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -0.0,
+        "current_price_1mo": 30.440000534057617
+    },
+    "SLV_1mo_25c_2013-02-01 00-00-00_trend_-0.683.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -0.682920436767149,
+        "current_price_1mo": 27.540000915527344
+    },
+    "SLV_1mo_25c_2013-03-01 00-00-00_trend_-20.796.png": {
+        "shape": "npnn",
+        "trend_strength_1mo": -20.796132453271632,
+        "current_price_1mo": 27.420000076293945
+    },
+    "SLV_1mo_25c_2013-04-01 00-00-00_trend_-50.670.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -50.67034729605494,
+        "current_price_1mo": 23.459999084472656
+    },
+    "SLV_1mo_25c_2013-05-01 00-00-00_trend_-104.231.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -104.23148669959247,
+        "current_price_1mo": 21.440000534057617
+    },
+    "SLV_1mo_25c_2013-06-01 00-00-00_trend_-108.867.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -108.86661491847259,
+        "current_price_1mo": 18.96999931335449
+    },
+    "SLV_1mo_25c_2013-07-01 00-00-00_trend_-88.844.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -88.84393604957039,
+        "current_price_1mo": 19.13999938964844
+    },
+    "SLV_1mo_25c_2013-08-01 00-00-00_trend_-106.300.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -106.30030846628661,
+        "current_price_1mo": 22.600000381469727
+    },
+    "SLV_1mo_25c_2013-09-01 00-00-00_trend_-118.364.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -118.36415445305899,
+        "current_price_1mo": 20.899999618530277
+    },
+    "SLV_1mo_25c_2013-10-01 00-00-00_trend_-58.021.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -58.021195021174776,
+        "current_price_1mo": 21.100000381469727
+    },
+    "SLV_1mo_25c_2013-11-01 00-00-00_trend_-80.128.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -80.1279554003117,
+        "current_price_1mo": 19.239999771118164
+    },
+    "SLV_1mo_25c_2013-12-01 00-00-00_trend_-83.408.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": -83.40842650062754,
+        "current_price_1mo": 18.709999084472656
+    },
+    "SLV_1mo_25c_2014-01-01 00-00-00_trend_-85.032.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -85.03229030836872,
+        "current_price_1mo": 18.450000762939453
+    },
+    "SLV_1mo_25c_2014-02-01 00-00-00_trend_-116.241.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -116.24089608196878,
+        "current_price_1mo": 20.350000381469727
+    },
+    "SLV_1mo_25c_2014-03-01 00-00-00_trend_-120.316.png": {
+        "shape": "pnpn",
+        "trend_strength_1mo": -120.31636583570686,
+        "current_price_1mo": 19.040000915527344
+    },
+    "SLV_1mo_25c_2014-04-01 00-00-00_trend_-108.556.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": -108.55568207689598,
+        "current_price_1mo": 18.459999084472656
+    },
+    "SLV_1mo_25c_2014-05-01 00-00-00_trend_-101.785.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -101.78529319739472,
+        "current_price_1mo": 18.07999992370605
+    },
+    "SLV_1mo_25c_2014-06-01 00-00-00_trend_-59.121.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -59.1209728675456,
+        "current_price_1mo": 20.25
+    },
+    "SLV_1mo_25c_2014-07-01 00-00-00_trend_-57.122.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -57.121641370271384,
+        "current_price_1mo": 19.57999992370605
+    },
+    "SLV_1mo_25c_2014-08-01 00-00-00_trend_-59.225.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -59.224799793855254,
+        "current_price_1mo": 18.709999084472656
+    },
+    "SLV_1mo_25c_2014-09-01 00-00-00_trend_-126.524.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -126.52355506884386,
+        "current_price_1mo": 16.350000381469727
+    },
+    "SLV_1mo_25c_2014-10-01 00-00-00_trend_-169.448.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -169.44791720679322,
+        "current_price_1mo": 15.5
+    },
+    "SLV_1mo_25c_2014-11-01 00-00-00_trend_-163.880.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -163.88018410289908,
+        "current_price_1mo": 14.829999923706056
+    },
+    "SLV_1mo_25c_2014-12-01 00-00-00_trend_-179.475.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -179.47499418614365,
+        "current_price_1mo": 15.0600004196167
+    },
+    "SLV_1mo_25c_2015-01-01 00-00-00_trend_-148.042.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -148.04208713504238,
+        "current_price_1mo": 16.540000915527344
+    },
+    "SLV_1mo_25c_2015-02-01 00-00-00_trend_-146.089.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -146.08853376265193,
+        "current_price_1mo": 15.869999885559082
+    },
+    "SLV_1mo_25c_2015-03-01 00-00-00_trend_-132.339.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -132.33902470263763,
+        "current_price_1mo": 15.93000030517578
+    },
+    "SLV_1mo_25c_2015-04-01 00-00-00_trend_-127.523.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -127.52294091529939,
+        "current_price_1mo": 15.43000030517578
+    },
+    "SLV_1mo_25c_2015-05-01 00-00-00_trend_-76.786.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -76.78571982746448,
+        "current_price_1mo": 15.989999771118164
+    },
+    "SLV_1mo_25c_2015-06-01 00-00-00_trend_-78.450.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -78.45021837448074,
+        "current_price_1mo": 15.029999732971191
+    },
+    "SLV_1mo_25c_2015-07-01 00-00-00_trend_-74.919.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -74.91896080411017,
+        "current_price_1mo": 14.079999923706056
+    },
+    "SLV_1mo_25c_2015-08-01 00-00-00_trend_-96.418.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -96.41843228335028,
+        "current_price_1mo": 13.989999771118164
+    },
+    "SLV_1mo_25c_2015-09-01 00-00-00_trend_-205.492.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -205.49178380389026,
+        "current_price_1mo": 13.869999885559082
+    },
+    "SLV_1mo_25c_2015-10-01 00-00-00_trend_-104.195.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -104.19518175821328,
+        "current_price_1mo": 14.800000190734863
+    },
+    "SLV_1mo_25c_2015-11-01 00-00-00_trend_-131.947.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -131.946860658575,
+        "current_price_1mo": 13.4399995803833
+    },
+    "SLV_1mo_25c_2015-12-01 00-00-00_trend_-110.416.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -110.41611108220354,
+        "current_price_1mo": 13.1899995803833
+    },
+    "SLV_1mo_25c_2016-01-01 00-00-00_trend_-119.258.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -119.25818086021586,
+        "current_price_1mo": 13.59000015258789
+    },
+    "SLV_1mo_25c_2016-02-01 00-00-00_trend_-92.302.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -92.30204601181151,
+        "current_price_1mo": 14.199999809265137
+    },
+    "SLV_1mo_25c_2016-03-01 00-00-00_trend_-123.602.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -123.60185007421838,
+        "current_price_1mo": 14.68000030517578
+    },
+    "SLV_1mo_25c_2016-04-01 00-00-00_trend_-24.534.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -24.533515687756385,
+        "current_price_1mo": 16.979999542236328
+    },
+    "SLV_1mo_25c_2016-05-01 00-00-00_trend_-39.552.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -39.552024717495954,
+        "current_price_1mo": 15.1899995803833
+    },
+    "SLV_1mo_25c_2016-06-01 00-00-00_trend_-2.361.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -2.3606720867095197,
+        "current_price_1mo": 17.860000610351562
+    },
+    "SLV_1mo_25c_2016-07-01 00-00-00_trend_-8.252.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -8.251577451635267,
+        "current_price_1mo": 19.350000381469727
+    },
+    "SLV_1mo_25c_2016-08-01 00-00-00_trend_-17.030.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -17.02996539377477,
+        "current_price_1mo": 17.719999313354492
+    },
+    "SLV_1mo_25c_2016-09-01 00-00-00_trend_-2.696.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": -2.6959907349182837,
+        "current_price_1mo": 18.200000762939453
+    },
+    "SLV_1mo_25c_2016-10-01 00-00-00_trend_6.076.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": 6.076298744564393,
+        "current_price_1mo": 16.969999313354492
+    },
+    "SLV_1mo_25c_2016-11-01 00-00-00_trend_2.269.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": 2.2694780779961192,
+        "current_price_1mo": 15.65999984741211
+    },
+    "SLV_1mo_25c_2016-12-01 00-00-00_trend_-1.459.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": -1.4589561394256259,
+        "current_price_1mo": 15.109999656677246
+    },
+    "SLV_1mo_25c_2017-01-01 00-00-00_trend_17.456.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": 17.455838047848772,
+        "current_price_1mo": 16.6299991607666
+    },
+    "SLV_1mo_25c_2017-02-01 00-00-00_trend_11.029.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 11.028951061195162,
+        "current_price_1mo": 17.3700008392334
+    },
+    "SLV_1mo_25c_2017-03-01 00-00-00_trend_15.564.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 15.563965967026718,
+        "current_price_1mo": 17.25
+    },
+    "SLV_1mo_25c_2017-04-01 00-00-00_trend_3.660.png": {
+        "shape": "nnpp",
+        "trend_strength_1mo": 3.6604822019329237,
+        "current_price_1mo": 16.299999237060547
+    },
+    "SLV_1mo_25c_2017-05-01 00-00-00_trend_10.705.png": {
+        "shape": "nnnp",
+        "trend_strength_1mo": 10.705373416473405,
+        "current_price_1mo": 16.389999389648438
+    },
+    "SLV_1mo_25c_2017-06-01 00-00-00_trend_-5.651.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": -5.650897130159722,
+        "current_price_1mo": 15.710000038146973
+    },
+    "SLV_1mo_25c_2017-07-01 00-00-00_trend_10.383.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 10.383407298684729,
+        "current_price_1mo": 15.899999618530272
+    },
+    "SLV_1mo_25c_2017-08-01 00-00-00_trend_26.531.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 26.53139589077719,
+        "current_price_1mo": 16.649999618530273
+    },
+    "SLV_1mo_25c_2017-09-01 00-00-00_trend_17.352.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 17.351920232216322,
+        "current_price_1mo": 15.739999771118164
+    },
+    "SLV_1mo_25c_2017-10-01 00-00-00_trend_18.059.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 18.058846699388944,
+        "current_price_1mo": 15.789999961853027
+    },
+    "SLV_1mo_25c_2017-11-01 00-00-00_trend_8.164.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 8.163506427931443,
+        "current_price_1mo": 15.510000228881836
+    },
+    "SLV_1mo_25c_2017-12-01 00-00-00_trend_25.787.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 25.787294132406736,
+        "current_price_1mo": 15.989999771118164
+    },
+    "SLV_1mo_25c_2018-01-01 00-00-00_trend_32.039.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 32.039227835402045,
+        "current_price_1mo": 16.350000381469727
+    },
+    "SLV_1mo_25c_2018-02-01 00-00-00_trend_19.805.png": {
+        "shape": "pnpn",
+        "trend_strength_1mo": 19.804692666247316,
+        "current_price_1mo": 15.460000038146973
+    },
+    "SLV_1mo_25c_2018-03-01 00-00-00_trend_13.906.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": 13.905983702817021,
+        "current_price_1mo": 15.40999984741211
+    },
+    "SLV_1mo_25c_2018-04-01 00-00-00_trend_12.493.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": 12.492964982058673,
+        "current_price_1mo": 15.380000114440918
+    },
+    "SLV_1mo_25c_2018-05-01 00-00-00_trend_-20.101.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -20.10070922349157,
+        "current_price_1mo": 15.460000038146973
+    },
+    "SLV_1mo_25c_2018-06-01 00-00-00_trend_-0.777.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -0.776930053853766,
+        "current_price_1mo": 15.149999618530272
+    },
+    "SLV_1mo_25c_2018-07-01 00-00-00_trend_-67.605.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -67.60497501682228,
+        "current_price_1mo": 14.609999656677246
+    },
+    "SLV_1mo_25c_2018-08-01 00-00-00_trend_-122.755.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -122.75494850889504,
+        "current_price_1mo": 13.649999618530272
+    },
+    "SLV_1mo_25c_2018-09-01 00-00-00_trend_-95.937.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -95.93742371266967,
+        "current_price_1mo": 13.729999542236328
+    },
+    "SLV_1mo_25c_2018-10-01 00-00-00_trend_-101.246.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -101.2461828189396,
+        "current_price_1mo": 13.40999984741211
+    },
+    "SLV_1mo_25c_2018-11-01 00-00-00_trend_-87.548.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -87.54803505219596,
+        "current_price_1mo": 13.31999969482422
+    },
+    "SLV_1mo_25c_2018-12-01 00-00-00_trend_-21.212.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -21.21205510233706,
+        "current_price_1mo": 14.520000457763672
+    },
+    "SLV_1mo_25c_2019-01-01 00-00-00_trend_-5.465.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -5.465221551224612,
+        "current_price_1mo": 15.050000190734863
+    },
+    "SLV_1mo_25c_2019-02-01 00-00-00_trend_-47.068.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -47.06816960577749,
+        "current_price_1mo": 14.630000114440918
+    },
+    "SLV_1mo_25c_2019-03-01 00-00-00_trend_-80.839.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -80.83862462780893,
+        "current_price_1mo": 14.18000030517578
+    },
+    "SLV_1mo_25c_2019-04-01 00-00-00_trend_-84.232.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -84.23212259834322,
+        "current_price_1mo": 14.020000457763672
+    },
+    "SLV_1mo_25c_2019-05-01 00-00-00_trend_-66.177.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -66.17737656719133,
+        "current_price_1mo": 13.649999618530272
+    },
+    "SLV_1mo_25c_2019-06-01 00-00-00_trend_-46.996.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -46.99586826997754,
+        "current_price_1mo": 14.329999923706056
+    },
+    "SLV_1mo_25c_2019-07-01 00-00-00_trend_-3.792.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -3.7922687230422922,
+        "current_price_1mo": 15.210000038146973
+    },
+    "SLV_1mo_25c_2019-08-01 00-00-00_trend_16.385.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": 16.385271308991552,
+        "current_price_1mo": 17.149999618530273
+    },
+    "SLV_1mo_25c_2019-09-01 00-00-00_trend_-9.564.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -9.563595627744391,
+        "current_price_1mo": 15.920000076293944
+    },
+    "SLV_1mo_25c_2019-10-01 00-00-00_trend_15.329.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": 15.329247383664292,
+        "current_price_1mo": 16.920000076293945
+    },
+    "SLV_1mo_25c_2019-11-01 00-00-00_trend_-0.000.png": {
+        "shape": "npnn",
+        "trend_strength_1mo": -0.0,
+        "current_price_1mo": 15.920000076293944
+    },
+    "SLV_1mo_25c_2019-12-01 00-00-00_trend_17.894.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": 17.893924952060058,
+        "current_price_1mo": 16.68000030517578
+    },
+    "SLV_1mo_25c_2020-01-01 00-00-00_trend_10.656.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 10.65602891762817,
+        "current_price_1mo": 16.81999969482422
+    },
+    "SLV_1mo_25c_2020-02-01 00-00-00_trend_-9.650.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": -9.649884799000858,
+        "current_price_1mo": 15.529999732971191
+    },
+    "SLV_1mo_25c_2020-03-01 00-00-00_trend_-26.318.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": -26.3181075568507,
+        "current_price_1mo": 13.050000190734863
+    },
+    "SLV_1mo_25c_2020-04-01 00-00-00_trend_-17.951.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": -17.95110809472888,
+        "current_price_1mo": 13.979999542236328
+    },
+    "SLV_1mo_25c_2020-05-01 00-00-00_trend_13.883.png": {
+        "shape": "nnnp",
+        "trend_strength_1mo": 13.882638814467665,
+        "current_price_1mo": 16.65999984741211
+    },
+    "SLV_1mo_25c_2020-06-01 00-00-00_trend_15.578.png": {
+        "shape": "nnpp",
+        "trend_strength_1mo": 15.577899687677593,
+        "current_price_1mo": 17.010000228881836
+    },
+    "SLV_1mo_25c_2020-07-01 00-00-00_trend_75.469.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 75.46868064229548,
+        "current_price_1mo": 22.649999618530277
+    },
+    "SLV_1mo_25c_2020-08-01 00-00-00_trend_96.007.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 96.00697382410411,
+        "current_price_1mo": 26.229999542236328
+    },
+    "SLV_1mo_25c_2020-09-01 00-00-00_trend_67.640.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 67.64048183143196,
+        "current_price_1mo": 21.63999938964844
+    },
+    "SLV_1mo_25c_2020-10-01 00-00-00_trend_71.594.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 71.59405510239239,
+        "current_price_1mo": 21.989999771118164
+    },
+    "SLV_1mo_25c_2020-11-01 00-00-00_trend_62.010.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 62.010366250055185,
+        "current_price_1mo": 21.049999237060547
+    },
+    "SLV_1mo_25c_2020-12-01 00-00-00_trend_92.818.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 92.81821077452041,
+        "current_price_1mo": 24.56999969482422
+    },
+    "SLV_1mo_25c_2021-01-01 00-00-00_trend_87.881.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 87.88138359159531,
+        "current_price_1mo": 24.989999771118164
+    },
+    "SLV_1mo_25c_2021-02-01 00-00-00_trend_75.071.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 75.07097643805585,
+        "current_price_1mo": 24.65999984741211
+    },
+    "SLV_1mo_25c_2021-03-01 00-00-00_trend_63.225.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 63.225201497278874,
+        "current_price_1mo": 22.700000762939453
+    },
+    "SLV_1mo_25c_2021-04-01 00-00-00_trend_75.183.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 75.18263529618284,
+        "current_price_1mo": 24.01000022888184
+    },
+    "SLV_1mo_25c_2021-05-01 00-00-00_trend_91.131.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 91.13069100301712,
+        "current_price_1mo": 25.899999618530277
+    },
+    "SLV_1mo_25c_2021-06-01 00-00-00_trend_77.798.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 77.79794139265036,
+        "current_price_1mo": 24.21999931335449
+    },
+    "SLV_1mo_25c_2021-07-01 00-00-00_trend_68.455.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 68.45542739566608,
+        "current_price_1mo": 23.6299991607666
+    },
+    "SLV_1mo_25c_2021-08-01 00-00-00_trend_52.766.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 52.76630622471905,
+        "current_price_1mo": 22.13999938964844
+    },
+    "SLV_1mo_25c_2021-09-01 00-00-00_trend_20.367.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 20.366716560846854,
+        "current_price_1mo": 20.520000457763672
+    },
+    "SLV_1mo_25c_2021-10-01 00-00-00_trend_41.204.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 41.20445824074798,
+        "current_price_1mo": 22.09000015258789
+    },
+    "SLV_1mo_25c_2021-11-01 00-00-00_trend_27.975.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 27.975014971760057,
+        "current_price_1mo": 21.059999465942383
+    },
+    "SLV_1mo_25c_2021-12-01 00-00-00_trend_38.504.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 38.50373038378014,
+        "current_price_1mo": 21.51000022888184
+    },
+    "SLV_1mo_25c_2022-01-01 00-00-00_trend_26.863.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 26.862529862005967,
+        "current_price_1mo": 20.799999237060547
+    },
+    "SLV_1mo_25c_2022-02-01 00-00-00_trend_39.659.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 39.65929105671994,
+        "current_price_1mo": 22.6200008392334
+    },
+    "SLV_1mo_25c_2022-03-01 00-00-00_trend_45.050.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 45.04987430714789,
+        "current_price_1mo": 22.8799991607666
+    },
+    "SLV_1mo_25c_2022-04-01 00-00-00_trend_50.895.png": {
+        "shape": "pnpp",
+        "trend_strength_1mo": 50.89541135142352,
+        "current_price_1mo": 21.040000915527344
+    },
+    "SLV_1mo_25c_2022-05-01 00-00-00_trend_33.053.png": {
+        "shape": "pnnp",
+        "trend_strength_1mo": 33.0531415018174,
+        "current_price_1mo": 19.84000015258789
+    },
+    "SLV_1mo_25c_2022-06-01 00-00-00_trend_9.928.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": 9.928010613035616,
+        "current_price_1mo": 18.63999938964844
+    },
+    "SLV_1mo_25c_2022-07-01 00-00-00_trend_8.104.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": 8.104040205161631,
+        "current_price_1mo": 18.700000762939453
+    },
+    "SLV_1mo_25c_2022-08-01 00-00-00_trend_-53.202.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": -53.20202120897937,
+        "current_price_1mo": 16.579999923706055
+    },
+    "SLV_1mo_25c_2022-09-01 00-00-00_trend_-84.309.png": {
+        "shape": "pnnn",
+        "trend_strength_1mo": -84.30864508083093,
+        "current_price_1mo": 17.5
+    },
+    "SLV_1mo_25c_2022-10-01 00-00-00_trend_-45.795.png": {
+        "shape": "nnnn",
+        "trend_strength_1mo": -45.79459218984685,
+        "current_price_1mo": 17.6200008392334
+    },
+    "SLV_1mo_25c_2022-11-01 00-00-00_trend_-18.130.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -18.129961625929113,
+        "current_price_1mo": 20.43000030517578
+    },
+    "SLV_1mo_25c_2022-12-01 00-00-00_trend_-0.000.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -0.0,
+        "current_price_1mo": 22.020000457763672
+    },
+    "SLV_1mo_25c_2023-01-01 00-00-00_trend_-42.265.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -42.26486709253194,
+        "current_price_1mo": 21.82999992370605
+    },
+    "SLV_1mo_25c_2023-02-01 00-00-00_trend_-94.927.png": {
+        "shape": "nnpn",
+        "trend_strength_1mo": -94.92740088560168,
+        "current_price_1mo": 19.21999931335449
+    },
+    "SLV_1mo_25c_2023-03-01 00-00-00_trend_-28.750.png": {
+        "shape": "npnn",
+        "trend_strength_1mo": -28.750124882690486,
+        "current_price_1mo": 22.1200008392334
+    },
+    "SLV_1mo_25c_2023-04-01 00-00-00_trend_0.878.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": 0.8780114864042294,
+        "current_price_1mo": 23.0
+    },
+    "SLV_1mo_25c_2023-05-01 00-00-00_trend_-26.044.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -26.044472207685896,
+        "current_price_1mo": 21.61000061035156
+    },
+    "SLV_1mo_25c_2023-06-01 00-00-00_trend_-46.925.png": {
+        "shape": "nppn",
+        "trend_strength_1mo": -46.92540781467002,
+        "current_price_1mo": 20.88999938964844
+    },
+    "SLV_1mo_25c_2023-07-01 00-00-00_trend_-12.401.png": {
+        "shape": "npnn",
+        "trend_strength_1mo": -12.40104638039866,
+        "current_price_1mo": 22.690000534057617
+    },
+    "SLV_1mo_25c_2023-08-01 00-00-00_trend_-7.738.png": {
+        "shape": "npnn",
+        "trend_strength_1mo": -7.737672394519976,
+        "current_price_1mo": 22.38999938964844
+    },
+    "SLV_1mo_25c_2023-09-01 00-00-00_trend_-14.973.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": -14.972725210645352,
+        "current_price_1mo": 20.34000015258789
+    },
+    "SLV_1mo_25c_2023-10-01 00-00-00_trend_1.317.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": 1.3165376801351207,
+        "current_price_1mo": 20.979999542236328
+    },
+    "SLV_1mo_25c_2023-11-01 00-00-00_trend_6.579.png": {
+        "shape": "npnp",
+        "trend_strength_1mo": 6.579421557796856,
+        "current_price_1mo": 23.1299991607666
+    },
+    "SLV_1mo_25c_2023-12-01 00-00-00_trend_5.787.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 5.787350727586262,
+        "current_price_1mo": 21.780000686645508
+    },
+    "SLV_1mo_25c_2024-01-01 00-00-00_trend_-1.253.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": -1.2534008782018637,
+        "current_price_1mo": 20.90999984741211
+    },
+    "SLV_1mo_25c_2024-02-01 00-00-00_trend_-3.104.png": {
+        "shape": "nnnp",
+        "trend_strength_1mo": -3.104263756707993,
+        "current_price_1mo": 20.729999542236328
+    },
+    "SLV_1mo_25c_2024-03-01 00-00-00_trend_-0.576.png": {
+        "shape": "nnnp",
+        "trend_strength_1mo": -0.5757949354047562,
+        "current_price_1mo": 22.75
+    },
+    "SLV_1mo_25c_2024-04-01 00-00-00_trend_11.931.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 11.931322098060827,
+        "current_price_1mo": 24.049999237060547
+    },
+    "SLV_1mo_25c_2024-05-01 00-00-00_trend_55.666.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 55.66641515269678,
+        "current_price_1mo": 27.76000022888184
+    },
+    "SLV_1mo_25c_2024-06-01 00-00-00_trend_54.996.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 54.99595045288183,
+        "current_price_1mo": 26.56999969482422
+    },
+    "SLV_1mo_25c_2024-07-01 00-00-00_trend_75.267.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 75.2673089279725,
+        "current_price_1mo": 26.38999938964844
+    },
+    "SLV_1mo_25c_2024-08-01 00-00-00_trend_72.042.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 72.04151418282643,
+        "current_price_1mo": 26.350000381469727
+    },
+    "SLV_1mo_25c_2024-09-01 00-00-00_trend_115.305.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 115.30543976033412,
+        "current_price_1mo": 28.40999984741211
+    },
+    "SLV_1mo_25c_2024-10-01 00-00-00_trend_110.030.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 110.03028722647852,
+        "current_price_1mo": 29.809999465942383
+    },
+    "SLV_1mo_25c_2024-11-01 00-00-00_trend_91.074.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 91.07439739488981,
+        "current_price_1mo": 27.920000076293945
+    },
+    "SLV_1mo_25c_2024-12-01 00-00-00_trend_50.528.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 50.52780820656514,
+        "current_price_1mo": 26.32999992370605
+    },
+    "SLV_1mo_25c_2025-01-01 00-00-00_trend_54.085.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 54.084791183929276,
+        "current_price_1mo": 28.51000022888184
+    },
+    "SLV_1mo_25c_2025-02-01 00-00-00_trend_60.745.png": {
+        "shape": "ppnp",
+        "trend_strength_1mo": 60.74471678790681,
+        "current_price_1mo": 28.309999465942383
+    },
+    "SLV_1mo_25c_2025-03-01 00-00-00_trend_114.425.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 114.42514843150572,
+        "current_price_1mo": 30.989999771118164
+    },
+    "SLV_1mo_25c_2025-04-01 00-00-00_trend_73.715.png": {
+        "shape": "nppp",
+        "trend_strength_1mo": 73.71543981704639,
+        "current_price_1mo": 29.600000381469727
+    },
+    "SLV_1mo_25c_2025-05-01 00-00-00_trend_61.692.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 61.692230532675445,
+        "current_price_1mo": 30.0
+    },
+    "SLV_1mo_25c_2025-06-01 00-00-00_trend_124.840.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 124.84030648127367,
+        "current_price_1mo": 32.810001373291016
+    },
+    "SLV_1mo_25c_2025-07-01 00-00-00_trend_149.244.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 149.24448155481323,
+        "current_price_1mo": 33.31999969482422
+    },
+    "SLV_1mo_25c_2025-08-01 00-00-00_trend_167.361.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 167.361013211552,
+        "current_price_1mo": 36.18999862670898
+    },
+    "SLV_1mo_25c_2025-09-01 00-00-00_trend_166.768.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 166.76783493687816,
+        "current_price_1mo": 42.369998931884766
+    },
+    "SLV_1mo_25c_2025-10-01 00-00-00_trend_168.070.png": {
+        "shape": "pppp",
+        "trend_strength_1mo": 168.06952778969224,
+        "current_price_1mo": 44.34000015258789
+    }
+}
