@@ -16,6 +16,7 @@ Data/**/*.csv
 
 # Output files - generated images and data
 Data_Charts_Images/
+**/*.png
 
 # Generated JSON files (regression data, labels, etc.)
 Charts/**/*_regression_data.json
