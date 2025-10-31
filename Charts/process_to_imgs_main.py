@@ -151,9 +151,9 @@ if __name__ == "__main__":
                     print(f"{'='*60}")
                     
                     # Set parameters
-                    window_size = 25
-                    height = 100
-                    overlap = 24
+                    window_size = 16
+                    height = 64
+                    overlap = 15
                     blur = False
                     blur_radius = 1.25
                     draw_regression_lines = False
