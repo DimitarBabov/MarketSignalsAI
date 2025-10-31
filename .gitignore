@@ -15,11 +15,11 @@ build/
 Data/**/*.csv
 
 # Output files - generated images and data
-PriceChartImgGenerator/output/
+Data_Charts_Images/
 
 # Generated JSON files (regression data, labels, etc.)
-PriceChartImgGenerator/**/*_regression_data.json
-PriceChartImgGenerator/**/*_regression_data_normalized.json
+Charts/**/*_regression_data.json
+Charts/**/*_trend_price.json
 
 # IDE
 .vscode/
